@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Game Sports</title>
+    <script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
+    <link rel="shortcut icon" href="/img/corriendo.png" type="image/x-icon">
+    <link rel="stylesheet" href="stylePlay.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="gameSection">
+        <a href="game"><img class="starPlay start" src="/img/estrella.png" alt="star"></a>
+        <p><b class="homePlay">Home</b></p>
+        <div id="resultado2" class="conteiner-resultado">
+            <p class="resultado" id="category"><b>Category</b></p>
+            <p class="resultado" id="puntos"><b id="punto1">Puntos: 0</b></p>
+            <p class="resultado" id="totalPuntos"><b>Total puntos: 0</b></p>
+        </div>
+        <div class="campoPregunta" id="campoPregunta">
+            <p>
+                <b id="pregunta">
+                    AQUI APARECE LA PREGUNTA
+                </b>
+            <p id="respuesta"></p>
+            </p>
+        </div>
+        <!-- <select name="time" id="">
+            <option value="15-seg">10 Seg</option>
+            <option value="15-seg">15 Seg</option>
+            <option value="30-seg">30 seg</option>
+            <option value="60-seg">60 seg</option>
+        </select> -->
+
+
+        <div class="ayudas">
+            <img class="cincuenta" id="cincuenta" src="/img/50.png" alt="">
+
+            <div class="reloj" id="reloj">
+                <p id="borrarReloj">Toca para empezar</p>
+            </div>
+            <img class="apoyo" id="apoyo" src="/img/apoyo.png" alt="">
+            <!-- <div class="apoyoCirculo"></div> -->
+        </div>
+
+        <div class="gameImg" id="gameImg">
+            <!-- <img class="cambioImagen" src="/img/estrella.png" alt="" id="imagenes"> -->
+        </div>
+        <img src="/img/proximo.png" alt="" class="flechaNext" id="flechaNext">
+
+
+    </div>
+    <div class="gameConteiner" id="gameConteiner">
+        <button class="opcion" id="opcion1">Aqui estaran las Opciones</button>
+        <button class="opcion" id="opcion2">Aqui estaran las Opciones</button>
+        <button class="opcion" id="opcion3">Aqui estaran las Opciones</button>
+        <button class="opcion" id="opcion4">Aqui estaran las Opciones</button>
+    </div>
+</body>
+<script src="playSport.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</html>

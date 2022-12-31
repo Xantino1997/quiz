@@ -1,0 +1,353 @@
+/* Estilos generales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.3s;
+  }
+  
+  :root {
+    --pink: #e922d2fc;
+    --red: #ff0000;
+    --black: #000;
+    --white: #fff;
+    --blue: #360ee9;
+    --violet: #d720b8;
+    --violetFort: #791440;
+    --errorFort:  linear-gradient(
+      to bottom,#5c145c,red,yellow
+      white
+    );
+    --grey: #c3bebe;
+    --blueSkye: #2fc2fc;
+    --blueSkyeClear: #bce8fb;
+    --blueBlack: #0f0f51;
+  }
+  
+  /* Contenedor inicial */
+  .containerInico {
+    width: 100vw; /* Se ajusta a la anchura de la ventana*/
+    height: 100vh;
+    background-color: var(--black);
+  }
+  
+  /* Estilos de la animación de texto */
+  span {
+    position: absolute;
+    font-size: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--grey);
+    display: block;
+    font-family: monospace;
+    white-space: nowrap;
+    border-right: 4px;
+    width: 42ch;
+    animation: typing 10s steps(42), blink 0.5s infinite step-end alternate;
+    overflow: hidden;
+  }
+  
+  /* Estilos de la animación de cita */
+  .cita {
+    position: absolute;
+    font-size: 90%;
+    top: 60%;
+    left: 60%;
+    transform: translate(-30%, -30%);
+    color: var(--grey);
+    display: block;
+    font-family: monospace;
+    white-space: nowrap;
+    border-right: 4px;
+    width: 15ch;
+    animation: salida 10s steps(25);
+    overflow: hidden;
+  }
+  
+  /* Animación de la escritura */
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+  }
+  
+  /* Animación del parpadeo */
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+  
+  /* Animación de salida */
+  @keyframes salida {
+    0% {
+      color: transparent;
+    }
+    60% {
+      color: transparent;
+    }
+    90% {
+      color: var(--white);
+    }
+  }
+  
+  .title-category {
+    text-align: center;
+    color: var(--white);
+    font-size: 25px;
+    background-color: transparent;
+    height: 60px;
+  }
+  
+  /* Contenedor general */
+  .container {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(
+      to bottom,
+      var(--blueBlack),
+      var(--blueBlack),
+      var(--blueBlack),
+      white
+    );
+  }
+  
+  /* Estilos para la estrella */
+  .star {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 10%;
+    top: 4%;
+  }
+  
+  /* Estilos para la categoría */
+  .category {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    margin-bottom: 35px;
+    left: 40%;
+    top: 10%;
+  }
+  
+  /* Estilos para el botón de jugar */
+  .starPlay {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 0.1%;
+    left: 48%;
+  }
+  
+  .jugar{
+    position: relative;
+    margin-top: 5%;
+  }
+  
+  /* Estilos para el título */
+  .kiniz {
+    color: var(--white);
+    position: absolute;
+    font-size: 15px;
+    left: 25px;
+    top: 65px;
+  }
+  
+  /* Estilos para los enlaces */
+  a {
+    font-size: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    color: var(--white);
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: transparent;
+  }
+  
+  /* Estilos de hover para los enlaces */
+  a:hover {
+    background-color: var(--blueSkyeClear);
+    color: var(--black);
+  }
+  
+  /* Estilos de la interfaz del juego */
+
+  /* parte destock de aca para abajo 👇
+   */
+  @media screen and (min-width: 600px) {
+    /* Contenedor inicial */
+    .containerInico {
+      width: 100vw; /* Se ajusta a la anchura de la ventana*/
+      height: 100vh;
+      background-color: var(--black);
+    }
+  
+    /* Estilos de la animación de texto */
+    span {
+      position: absolute;
+      font-size: 50px;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--grey);
+      display: block;
+      font-family: monospace;
+      white-space: nowrap;
+      border-right: 4px;
+      width: 42ch;
+      animation: typing 8s steps(42), blink 0.5s infinite step-end alternate;
+      overflow: hidden;
+    }
+  
+    /* Estilos de la animación de cita */
+    .cita {
+      position: absolute;
+      font-size: 70px;
+      top: 60%;
+      left: 60%;
+      transform: translate(-30%, -30%);
+      color: var(--grey);
+      display: block;
+      font-family: monospace;
+      white-space: nowrap;
+      border-right: 4px;
+      width: 15ch;
+      animation: salida 10s steps(25);
+      overflow: hidden;
+    }
+  
+    /* Animación de la escritura */
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+    }
+  
+    /* Animación del parpadeo */
+    @keyframes blink {
+      50% {
+        border-color: transparent;
+      }
+    }
+  
+    /* Animación de salida */
+    @keyframes salida {
+      0% {
+        color: transparent;
+      }
+      60% {
+        color: transparent;
+      }
+      90% {
+        color: var(--white);
+      }
+    }
+  
+    .title-category {
+      text-align: center;
+      color: var(--white);
+      font-size: 25px;
+      background-color: transparent;
+      height: 60px;
+    }
+  
+    /* Contenedor general */
+    .container {
+      position: absolute;
+      top: 0px;
+      width: 100vw;
+      height: 100vh;
+      background: linear-gradient(
+        to bottom,
+        var(--blueBlack),
+        var(--blueBlack),
+        var(--blueBlack),
+        var(--blueBlack),
+        var(--blueBlack),
+        var(--blueBlack),
+        var(--blueBlack),
+        var(--blueBlack),
+        var(--blueBlack),
+        white
+      );
+    }
+  
+    /* Estilos para la estrella */
+    .star {
+      position: absolute;
+      width: 25px;
+      height: 25px;
+      left: 15%;
+      top: 10%;
+    }
+  
+    /* Estilos para la categoría */
+    .category {
+      position: absolute;
+      width: 35px;
+      height: 35px;
+      margin-bottom: 35px;
+      left: 40%;
+      top: 10%;
+    }
+  
+    /* Estilos para el botón de jugar */
+    .starPlay {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      top: 0.1%;
+      left: 48%;
+    }
+  
+    /* Estilos para el título */
+    .kiniz {
+      color: var(--white);
+      position: absolute;
+      font-size: 15px;
+      left: 25px;
+      top: 65px;
+    }
+  
+    /* Estilos para los enlaces */
+    li {
+      font-size: 15px;
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+      color: var(--white);
+      height: 100px;
+      text-decoration: none;
+      display: flex;
+      justify-content: space-around;
+      background-color: transparent;
+    }
+    a {
+      position: absolute;
+      font-size: 20px;
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+      color: var(--white);
+      width: 15%;
+      height: 40px;
+      text-decoration: none;
+      bottom: 70px;
+      display: flex;
+      border-radius: 15px;
+    }
+  
+    /* Estilos de hover para los enlaces */
+    a:hover {
+      background-color: var(--blueSkyeClear);
+      color: var(--black);
+      border-radius: 15px ;
+    }
+  }
+  

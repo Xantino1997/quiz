@@ -1,0 +1,1594 @@
+[
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el verdadero nombre de Alejandro Sanz?",
+        "respuesta": "Alejandro Sánchez Pizarro",
+        "incorrecta1": "Alejandro Sánchez Gutiérrez",
+        "incorrecta2": "Alexander Santiago Seguiz",
+        "incorrecta3": "Alejandro Alberto Sanzón\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién es la mascota de SEGA?",
+        "respuesta": "Sonic",
+        "incorrecta1": "Mario",
+        "incorrecta2": "Pac Man",
+        "incorrecta3": "Ryu\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos premios Grammy ha ganado Britney Spears?",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "3",
+        "incorrecta3": "4\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién es Bella en la saga \"Crepúsculo\"?",
+        "respuesta": "Kristen Stewart",
+        "incorrecta1": "Cristina Ricci",
+        "incorrecta2": "Emma Watson",
+        "incorrecta3": "Dakota Fanning\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es considerado por los fans el peor juego de la historia de ATARI?",
+        "respuesta": "ET",
+        "incorrecta1": "Tetris",
+        "incorrecta2": "Combat",
+        "incorrecta3": "Galaxian\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año tuvo lugar el ataque a Pearl Harbor?",
+        "respuesta": "1941",
+        "incorrecta1": "1939",
+        "incorrecta2": "1940",
+        "incorrecta3": "1942\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón?",
+        "respuesta": "Hugo Chávez",
+        "incorrecta1": "Evo Morales",
+        "incorrecta2": "Fidel Castro",
+        "incorrecta3": "Rafael Correa\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quiénes fueron los sans-culottes de la Revolución Francesa?",
+        "respuesta": "La Principal Masa Social Revolucionaria",
+        "incorrecta1": "La Burguesía Durante La Revolución",
+        "incorrecta2": "Ninguna Es Correcta",
+        "incorrecta3": "El Nombre Despectivo De Los Burgueses\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Con qué hecho histórico relacionarías al \"hombre del tanque\" o \"rebelde desconocido\"?",
+        "respuesta": "Protestas De Plaza Tian'anmen, Pekín",
+        "incorrecta1": "Protestas De Plaza Tahrir, El Cairo",
+        "incorrecta2": "Protestas De Plaza Del Sol, Madrid",
+        "incorrecta3": "Protestas De Plaza De Mayo, Buenos Aires\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué otro nombre recibió el período de la Gran Hambruna China?",
+        "respuesta": "Todas Son Correctas",
+        "incorrecta1": "Tres Años De Desastres Naturales",
+        "incorrecta2": "Tres Años De Dificultades Económicas",
+        "incorrecta3": "Tres Años Amargos\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos soldados argentinos murieron en la Guerra de las Malvinas?",
+        "respuesta": "649",
+        "incorrecta1": "200",
+        "incorrecta2": "987",
+        "incorrecta3": "1452\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es la ciudad más antigua de América Latina?",
+        "respuesta": "Caral",
+        "incorrecta1": "Valparaíso",
+        "incorrecta2": "Arequipa",
+        "incorrecta3": "La Paz\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Con qué emperador estuvo casada Cleopatra?",
+        "respuesta": "Todas Son Correctas",
+        "incorrecta1": "Ptolomeo XIV",
+        "incorrecta2": "Julio César",
+        "incorrecta3": "Marco Antonio\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué partido se organizan hoy los carlistas?",
+        "respuesta": "Comunión Tradicionalista Carlista",
+        "incorrecta1": "Partido Carlista",
+        "incorrecta2": "Ambas Son Correctas",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "El Renacimiento marcó el inicio de la Edad…",
+        "respuesta": "Moderna",
+        "incorrecta1": "Antigüedad Clásica",
+        "incorrecta2": "Contemporánea",
+        "incorrecta3": "Media\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué país fue dirigido por Stalin?",
+        "respuesta": "Unión Soviética",
+        "incorrecta1": "Cuba",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Polonia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué se celebra el 8 de Marzo?",
+        "respuesta": "El Día De La Mujer",
+        "incorrecta1": "El Día Del Trabajo",
+        "incorrecta2": "El Día Del Medio Ambiente",
+        "incorrecta3": "El Día Del Niño\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál de los siguientes políticos no ha estado implicado en la trama Gürtel?",
+        "respuesta": "Mariano Rajoy",
+        "incorrecta1": "Francisco Camps",
+        "incorrecta2": "Esteban González Pons",
+        "incorrecta3": "Luis Bárcenas\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos siglos duró el Siglo de Oro?",
+        "respuesta": "2",
+        "incorrecta1": "3",
+        "incorrecta2": "0.5",
+        "incorrecta3": "1\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué fue Dracón?",
+        "respuesta": "Legislador",
+        "incorrecta1": "Comerciante",
+        "incorrecta2": "Médico",
+        "incorrecta3": "Guerrero\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo murió Jacques de Molay, último gran maestre templario?",
+        "respuesta": "En La Hoguera",
+        "incorrecta1": "Envenenado",
+        "incorrecta2": "De Risa",
+        "incorrecta3": "Enfermedad\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién liberó a Argentina, Chile y Perú?",
+        "respuesta": "José De San Martín",
+        "incorrecta1": "Ernesto 'Che' Guevara",
+        "incorrecta2": "Manual Belgrano",
+        "incorrecta3": "Simón Bolívar\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Dónde surgió la filosofía?",
+        "respuesta": "Grecia",
+        "incorrecta1": "España",
+        "incorrecta2": "Egipto",
+        "incorrecta3": "Japón\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Para qué fue creado el plan Marshall en 1947?",
+        "respuesta": "Reconstrucción",
+        "incorrecta1": "Regalo",
+        "incorrecta2": "Conquista",
+        "incorrecta3": "Comercio\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue galardonado con el premio Nobel de la Paz en 2007?",
+        "respuesta": "Albert Gore",
+        "incorrecta1": "Albert Einstein",
+        "incorrecta2": "Albert Schweitzer",
+        "incorrecta3": "Albert Van Bommel\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo llamaban a Dios los testigos de Jehová?",
+        "respuesta": "Jehová",
+        "incorrecta1": "Jesús",
+        "incorrecta2": "Buda",
+        "incorrecta3": "Mutante\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se llama la sustancia que se utiliza en la Iglesia para hacer mucho humo?",
+        "respuesta": "Incienso",
+        "incorrecta1": "Vino",
+        "incorrecta2": "Carbón",
+        "incorrecta3": "Aceite\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se llama la capital del antiguo imperio azteca?",
+        "respuesta": "Tenochtitlan",
+        "incorrecta1": "Quetzalcoatl",
+        "incorrecta2": "Culhuacan",
+        "incorrecta3": "Texcoco\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Los cuatro evangelistas de la Biblia son Mateo, Marcos, Lucas y…",
+        "respuesta": "Juan",
+        "incorrecta1": "Antonio",
+        "incorrecta2": "Jesús",
+        "incorrecta3": "José\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién gobernó Francia desde 1799 a 1815?",
+        "respuesta": "Napoleón Bonaparte",
+        "incorrecta1": "Adam Smith",
+        "incorrecta2": "François Quesnay",
+        "incorrecta3": "Louis Bonaldgug\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué modelo de Seat significó la motorización de los españoles?",
+        "respuesta": "600",
+        "incorrecta1": "500",
+        "incorrecta2": "Ibiza",
+        "incorrecta3": "León\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De qué estaba fabricado originalmente el maquillaje blanco de las Geishas?",
+        "respuesta": "Plomo",
+        "incorrecta1": "Harina",
+        "incorrecta2": "Arroz Molido",
+        "incorrecta3": "Flores De Loto\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál de estos nombres en clave no se corresponde con el de una playa del desembarco de Normandía?",
+        "respuesta": "Todos Son Correctos",
+        "incorrecta1": "Utah",
+        "incorrecta2": "Juno",
+        "incorrecta3": "Sword\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué motivó la rebelión que dio lugar a la Guerra de la Independencia de EEUU?",
+        "respuesta": "Impuesto",
+        "incorrecta1": "Esclavitud",
+        "incorrecta2": "Corrupción",
+        "incorrecta3": "Represión\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué imperio llegó a conquistar casi toda Europa?",
+        "respuesta": "Romano",
+        "incorrecta1": "Cartago",
+        "incorrecta2": "Espartano",
+        "incorrecta3": "Vikingo\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quiénes fueron los Reyes Católicos?",
+        "respuesta": "Isabel I Y Fernando II",
+        "incorrecta1": "Juana I Y Felipe I",
+        "incorrecta2": "Isabel II Y Francisco De Asís",
+        "incorrecta3": "Isabel I Y Fernando VII\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De qué color es el humo que informa a los creyentes de que se ha elegido un Papa nuevo?",
+        "respuesta": "Blanco",
+        "incorrecta1": "Amarillo",
+        "incorrecta2": "Rojo",
+        "incorrecta3": "Negro\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué sobrenombre tenía Guillermo I de Inglaterra?",
+        "respuesta": "El Conquistador",
+        "incorrecta1": "El Tirano",
+        "incorrecta2": "El Loco",
+        "incorrecta3": "El Valiente\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿María Antonieta fue reina de qué país?",
+        "respuesta": "Francia",
+        "incorrecta1": "Nunca Fue Reina",
+        "incorrecta2": "Países Bajos",
+        "incorrecta3": "Reino Unido\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Dónde vivía Ana Frank?",
+        "respuesta": "Ámsterdam",
+        "incorrecta1": "Berlín",
+        "incorrecta2": "Viena",
+        "incorrecta3": "Brujas\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué viaje Colón encontró a los mayas?",
+        "respuesta": "Cuarto",
+        "incorrecta1": "Tercero",
+        "incorrecta2": "Segundo",
+        "incorrecta3": "Primero\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se llamaba el prisionero que fue liberado por Pilato en lugar de Jesús?",
+        "respuesta": "Barrabás",
+        "incorrecta1": "Judas",
+        "incorrecta2": "José De Arimatea",
+        "incorrecta3": "Jordi Hurtado\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año viajó el primer hombre a la luna?",
+        "respuesta": "1969",
+        "incorrecta1": "1968",
+        "incorrecta2": "1979",
+        "incorrecta3": "1957\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos mandamientos hay en el cristianismo?",
+        "respuesta": "10",
+        "incorrecta1": "9",
+        "incorrecta2": "11",
+        "incorrecta3": "12\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién ganó las elecciones presidenciales de la república de México en 2012?",
+        "respuesta": "Enrique Peña Nieto",
+        "incorrecta1": "Andrés Manuel",
+        "incorrecta2": "Josefina Vázquez",
+        "incorrecta3": "Gabriel Quadri\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De dónde es originario el pan con aceite y azúcar?",
+        "respuesta": "Andalucía ",
+        "incorrecta1": "Cataluña",
+        "incorrecta2": "Valencia",
+        "incorrecta3": "Castilla La Mancha\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De qué árbol eran las hojas que llevaban en la cabeza los antiguos romanos para simbolizar la victoria?",
+        "respuesta": "Laurel ",
+        "incorrecta1": "Pino ",
+        "incorrecta2": "Naranjo ",
+        "incorrecta3": "Olivo \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo era la relación de Juana I La Loca con su marido, Felipe I?",
+        "respuesta": "Juana Sentía Unos Celos Patológicos ",
+        "incorrecta1": "Juana Detestaba A Su Marido",
+        "incorrecta2": "Estuvieron Siempre Enamorados",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se llamaba el hermano de Napoleón Bonaparte?",
+        "respuesta": "José Bonaparte ",
+        "incorrecta1": "Pierre Bonaparte ",
+        "incorrecta2": "Pita Bonaparte ",
+        "incorrecta3": "Ernesto Bonaparte\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál era el nombre de pila de Lenin?",
+        "respuesta": "Vladímir",
+        "incorrecta1": "Aléksey",
+        "incorrecta2": "Iósif",
+        "incorrecta3": "Aleksandr\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Libertad, Igualdad... ¿Cuál es el tercer término del lema de la Revolución Francesa?",
+        "respuesta": "Fraternidad ",
+        "incorrecta1": "Apacibilidad",
+        "incorrecta2": "Austeridad",
+        "incorrecta3": "Probabilidad\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué Imperio se disolvió, después de 846 años, el 6 de agosto de 1806?",
+        "respuesta": "El Sacro Imperio Romano Germánico",
+        "incorrecta1": "El Imperio Dorado De Los Incas ",
+        "incorrecta2": "El Imperio De Los Samurais",
+        "incorrecta3": "El Imperio Bizantino \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De qué manera consiguió EEUU el estado de Alaska de manos de Rusia?",
+        "respuesta": "Lo Compró",
+        "incorrecta1": "Lo Conquistó",
+        "incorrecta2": "Lo Invadió",
+        "incorrecta3": "Siempre Perteneció A EE.UU.\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo era conocido también el faraón Akenatón, por adorar a un solo Dios?",
+        "respuesta": "El Hereje",
+        "incorrecta1": "El Loco ",
+        "incorrecta2": "El Ateo ",
+        "incorrecta3": "El Feo \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién dijo que la diferencia entre la estupidez y la genialidad es que la genialidad tiene límites?",
+        "respuesta": "Einstein",
+        "incorrecta1": "Gandhi",
+        "incorrecta2": "Nietzsche",
+        "incorrecta3": "Wilde\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué tres estamentos estaba dividida la sociedad en el Antiguo Régimen?",
+        "respuesta": "Clero, Nobleza Y Tercer Estado",
+        "incorrecta1": "Nobleza, Tercer Estado Y Judíos",
+        "incorrecta2": "Déspotas, Clero Y Corte ",
+        "incorrecta3": "Déspotas, Nobleza Y Judíos\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué otro nombre recibió la Primera Guerra Mundial hasta 1939?",
+        "respuesta": "La Gran Guerra",
+        "incorrecta1": "La Guerra De Los 100 Años",
+        "incorrecta2": "La Guerra Entre Las Guerras",
+        "incorrecta3": "Ningún Otro\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año dejó de existir el estado llamado Yugoslavia?",
+        "respuesta": "2003",
+        "incorrecta1": "1994",
+        "incorrecta2": "1991",
+        "incorrecta3": "1989\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién descubrió América?",
+        "respuesta": "Cristóbal Colón ",
+        "incorrecta1": "Fernando Alonso ",
+        "incorrecta2": "Ludwing Van Beethoven ",
+        "incorrecta3": "Un Hombre Lobo \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se abrió el canal de Panamá?",
+        "respuesta": "1914",
+        "incorrecta1": "1879",
+        "incorrecta2": "1903",
+        "incorrecta3": "1810\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "El cristianismo y el islamismo son las religiones más extendidas en el mundo. ¿Cuál es la siguiente?",
+        "respuesta": "El Hinduismo",
+        "incorrecta1": "El Budismo",
+        "incorrecta2": "Las Religiones Indígenas",
+        "incorrecta3": "La Religión Tradicional China\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos meses duró la Batalla de Moscú, que tuvo lugar durante la Segunda Guerra Mundial?",
+        "respuesta": "Tres",
+        "incorrecta1": "Cuatro",
+        "incorrecta2": "Cinco ",
+        "incorrecta3": "Seis \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué idioma se escribió el antiguo testamento por primera vez?",
+        "respuesta": "Hebreo",
+        "incorrecta1": "Griego",
+        "incorrecta2": "Latín",
+        "incorrecta3": "Jesuita\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién recibió en 2009 el Premio Nobel de la Paz?",
+        "respuesta": "Barack Obama",
+        "incorrecta1": "Bill Clinton",
+        "incorrecta2": "Homer Simpson",
+        "incorrecta3": "Michelle Obama\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál de estas afirmaciones sobre Buenaventura Durruti no es cierta?",
+        "respuesta": "Todas Son Ciertas",
+        "incorrecta1": "Militó En La CNT",
+        "incorrecta2": "Atracó El Banco De España En 1923",
+        "incorrecta3": "Murió Al Comienzo De La Guerra Civil Española\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Según el griego, qué significa el nombre \"Mesopotamia\"?",
+        "respuesta": "Entre Ríos",
+        "incorrecta1": "Díos Del Río",
+        "incorrecta2": "Arriba De Los Ríos",
+        "incorrecta3": "Ciudad Con Poderío\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué universidad cumplió 125 años en 2011?",
+        "respuesta": "Deusto",
+        "incorrecta1": "Harvard ",
+        "incorrecta2": "Oxford",
+        "incorrecta3": "Uem\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué científico alemán trabajó NASA?",
+        "respuesta": "Wernher Von Braun",
+        "incorrecta1": "Claus Von Stauffenberg ",
+        "incorrecta2": "Joachim Von Ribbentrop",
+        "incorrecta3": "Ninguno De Ellos\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué ciudad se proclamó la primera constitución liberal de España en 1812?",
+        "respuesta": "Cádiz ",
+        "incorrecta1": "San Fernando",
+        "incorrecta2": "Madrid ",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año empezó la Guerra del Golfo Pérsico?",
+        "respuesta": "1990",
+        "incorrecta1": "1985",
+        "incorrecta2": "1995",
+        "incorrecta3": "1999\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué guerra se hundieron los buques Sheffiel y Coventry?",
+        "respuesta": "Malvinas",
+        "incorrecta1": "Primera Guerra Mundial",
+        "incorrecta2": "Segunda Guerra Mundial",
+        "incorrecta3": "Guerra De Independencia De EE.UU.\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál fue el primer trayecto en tren en España?",
+        "respuesta": "Barcelona - Mataró",
+        "incorrecta1": "Madrid - Barcelona",
+        "incorrecta2": "Madrid - Aranjuez",
+        "incorrecta3": "Madrid - Alicante\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Reina de las Amazonas, que hizo la guerra a los Atlantes, después combatió a las Gorgonas y realizó innumerables hazañas.",
+        "respuesta": "Mirina",
+        "incorrecta1": "Flora",
+        "incorrecta2": "Belona",
+        "incorrecta3": "Hades\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Diosa de la vegetación, de los jardines y de la primavera.",
+        "respuesta": "Flora",
+        "incorrecta1": "Belona",
+        "incorrecta2": "Hades",
+        "incorrecta3": "Mirina\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Diosa de la guerra, hermana o esposa de Marte.",
+        "respuesta": "Belona",
+        "incorrecta1": "Otea",
+        "incorrecta2": "Colosa",
+        "incorrecta3": "Mirina\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Ser de doble naturaleza, masculina y femenina, hijo de Hermes y de Afrodita. De origen sirio, su creencia transitó por Chipre antes de llegar a Grecia. Figura a menudo entre los compañeros de Dioniso.",
+        "respuesta": "Hermafrodita",
+        "incorrecta1": "Belona",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Colosa\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Dios de los Infiernos, hijo de Cronos y de Rea. Al vencer los dioses a los Titanes, fue condenado a reinar sobre los muertos.",
+        "respuesta": "Hades",
+        "incorrecta1": "Zeus",
+        "incorrecta2": "Odin",
+        "incorrecta3": "Thor\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Ninfa de Arcadia, compañera de Artemisa. Amada por Zeus, fue transformada en osa por Artemisa, por Hera o por el propio Zeus. Fue muerta por Artemisa en una cacería. Zeus hizo de ella la constelación de la Osa Mayor.",
+        "respuesta": "Calisto",
+        "incorrecta1": "Otea",
+        "incorrecta2": "Belona",
+        "incorrecta3": "Mirina\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Ninfas del mar, hijas de Nereo y de Doris. Eran tradicionalmente 50 hermanas, las más conocidas de las cuales son Anfitrite, Tetis y Galatea. Personificaban los aspectos placenteros del mar.",
+        "respuesta": "Nereidas",
+        "incorrecta1": "Calisto",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Belona\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Estimación excesiva de sí mismo en menosprecio de los demás. # Exceso de magnificencia o suntuosidad. # Grandioso, magnífico. # Grande o de grandes proporciones. # Fogoso, orgulloso, violento.",
+        "respuesta": "Soberbia",
+        "incorrecta1": "Sinismo",
+        "incorrecta2": "Ensimismado",
+        "incorrecta3": "Amado\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se le denomina al \"fobia al 666\"?",
+        "respuesta": "Hexakosioihexekontahexafobia",
+        "incorrecta1": "Triskaidekafobia",
+        "incorrecta2": "Tafofobia",
+        "incorrecta3": "Trezidavomartiofobia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se le denomina al \"odio a los pobres.\"?",
+        "respuesta": "Aporofobia",
+        "incorrecta1": "Poorfobia",
+        "incorrecta2": "Tafofobia",
+        "incorrecta3": "Trezidavomartiofobia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Personaje alegórico al que se representaba, en los Infiernos, trenzando una cuerda que iba siendo devorada por una burra.",
+        "respuesta": "Ocno",
+        "incorrecta1": "Otea",
+        "incorrecta2": "Calisto",
+        "incorrecta3": "Nereidas\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Diosa de la fecundidad y de la abundancia. Se la identificó con las diosas Rea y Cibeles. Tenía un santuario en el Foro.",
+        "respuesta": "Ops",
+        "incorrecta1": "Ocno",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Calisto\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Nombre dado a unas razas del sur de Egipto, en las fuentes del Nilo y, a veces, en la India, caracterizadas por su escasa estatura.",
+        "respuesta": "Pigmeos",
+        "incorrecta1": "Ocno",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Calisto\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Hermana de Leto y madre de Hécate. Se resistió a Zeus, quien la transformó en codorniz. Se arrojó al mar, en donde se convirtió en la isla de Ortigia, llamada luego Delos.",
+        "respuesta": "Asteria",
+        "incorrecta1": "Ocno",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Calisto\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Dioses mellizos, hijos de Zeus y de Talía, surgidos del seno de la Tierra. Su culto estaba vinculado con las erupciones volcánicas en la región del Etna.",
+        "respuesta": "Palicos",
+        "incorrecta1": "Ops",
+        "incorrecta2": "Ocno",
+        "incorrecta3": "Otea\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿De qué fue ministro Manuel Fraga durante el franquismo?",
+        "respuesta": "De Información Y Turismo",
+        "incorrecta1": "De Interior",
+        "incorrecta2": "De Economía",
+        "incorrecta3": "Del Ejército\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Las revueltas de dónde son llamadas Intifadas?",
+        "respuesta": "Palestina",
+        "incorrecta1": "Montenegro",
+        "incorrecta2": "Kosovo",
+        "incorrecta3": "Chechenia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " La Comuna de París fue un movimiento...",
+        "respuesta": "Insurreccional Autogestionario Del XIX",
+        "incorrecta1": "Del Mayo De 68",
+        "incorrecta2": "Hippie De Los Años 60",
+        "incorrecta3": "De La Revolución Francesa\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón?",
+        "respuesta": "Hugo Chávez",
+        "incorrecta1": "Evo Morales",
+        "incorrecta2": "Fidel Castro",
+        "incorrecta3": "Rafael Correa\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quiénes fueron los sans-culottes de la Revolución Francesa?",
+        "respuesta": "La Principal Masa Social Revolucionaria",
+        "incorrecta1": "La Burguesía Durante La Revolución",
+        "incorrecta2": "El Nombre Despectivo De Los Burgueses",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Con qué hecho histórico relacionarías al \"hombre del tanque\" o \"rebelde desconocido\"?",
+        "respuesta": "Protestas De Plaza Tian'anmen, Pekín",
+        "incorrecta1": "Protestas De Plaza Tahrir, El Cairo",
+        "incorrecta2": "Protestas De Plaza Del Sol, Madrid",
+        "incorrecta3": "Protestas De Plaza De Mayo, Buenos Aires\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué otro nombre recibió el período de la Gran Hambruna China?",
+        "respuesta": "Todas Son Correctas",
+        "incorrecta1": "Tres Años De Desastres Naturales",
+        "incorrecta2": "Tres Años De Dificultades Económicas",
+        "incorrecta3": "Tres Años Amargos\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos soldados argentinos murieron en la Guerra de las Malvinas?",
+        "respuesta": "649",
+        "incorrecta1": "200",
+        "incorrecta2": "987",
+        "incorrecta3": "1452\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál es la ciudad más antigua de América Latina?",
+        "respuesta": "Caral",
+        "incorrecta1": "Valparaíso",
+        "incorrecta2": "Arequipa",
+        "incorrecta3": "La Paz\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿A qué presidente ceso el rey Alfonso XIII tras las reacciones que sucedieron a la Semana Trágica?",
+        "respuesta": "Antonio Maura",
+        "incorrecta1": "Eduardo Dato",
+        "incorrecta2": "Segismundo Moret",
+        "incorrecta3": "Cánovas Del Castillo\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién pronunció la frase: \"Bebamos de la copa de la destrucción\"?",
+        "respuesta": "Gengis Kan",
+        "incorrecta1": "Margaret Tatcher",
+        "incorrecta2": "Mussolini",
+        "incorrecta3": "Berlusconi\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Con qué emperador estuvo casada Cleopatra?",
+        "respuesta": "Todas Son Correctas",
+        "incorrecta1": "Ptolomeo XIV",
+        "incorrecta2": "Julio César",
+        "incorrecta3": "Marco Antonio\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué partido se organizan hoy los carlistas?",
+        "respuesta": "Comunión Tradicionalista Carlista",
+        "incorrecta1": "Partido Carlista",
+        "incorrecta2": "Ambas Son Correctas",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " El Renacimiento marcó el inicio de la Edad...",
+        "respuesta": "Moderna",
+        "incorrecta1": "Antigüedad Clásica",
+        "incorrecta2": "Contemporánea",
+        "incorrecta3": "Media\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué país fue dirigido por Stalin?",
+        "respuesta": "Unión Soviética",
+        "incorrecta1": "Cuba",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Polonia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué se celebra el 8 de Marzo?",
+        "respuesta": "El Día De La Mujer",
+        "incorrecta1": "El Día Del Trabajo",
+        "incorrecta2": "El Día Del Medio Ambiente",
+        "incorrecta3": "El Día Del Niño\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos siglos duró el Siglo de Oro?",
+        "respuesta": "Dos",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Medio\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué fue Dracón?",
+        "respuesta": "Legislador",
+        "incorrecta1": "Comerciante",
+        "incorrecta2": "Médico",
+        "incorrecta3": "Guerrero\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo murió Jacques de Molay, último gran maestre templario?",
+        "respuesta": "En La Hoguera",
+        "incorrecta1": "Envenenado",
+        "incorrecta2": "De Risa",
+        "incorrecta3": "Enfermedad\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién es el actual presidente de México (2014)?",
+        "respuesta": "Enrique Peña Nieto",
+        "incorrecta1": "Felipe Calderón Hinojosa",
+        "incorrecta2": "Hugo Chávez",
+        "incorrecta3": "Vicente Fox\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién liberó a Argentina, Chile y Perú?",
+        "respuesta": "José De San Martín",
+        "incorrecta1": "Ernesto 'Che' Guevara",
+        "incorrecta2": "Manual Belgrano",
+        "incorrecta3": "Simón Bolívar\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Dónde surgió la filosofía?",
+        "respuesta": "Grecia",
+        "incorrecta1": "España",
+        "incorrecta2": "Egipto",
+        "incorrecta3": "Japón\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Para qué fue creado el plan Marshall en 1947?",
+        "respuesta": "Reconstrucción",
+        "incorrecta1": "Regalo",
+        "incorrecta2": "Conquista",
+        "incorrecta3": "Comercio\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién fue galardonado con el premio Nobel de la Paz en 2007?",
+        "respuesta": "Albert Gore",
+        "incorrecta1": "Albert Einstein",
+        "incorrecta2": "Albert Schweitzer",
+        "incorrecta3": "Albert Van Bommel\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo llamaban a Dios los testigos de Jehová?",
+        "respuesta": "Jehová",
+        "incorrecta1": "Mutante",
+        "incorrecta2": "Buda",
+        "incorrecta3": "Jesús\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llama la sustancia que se utiliza en la Iglesia para hacer mucho humo?",
+        "respuesta": "Incienso",
+        "incorrecta1": "Vino",
+        "incorrecta2": "Carbón",
+        "incorrecta3": "Aceite\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué modelo de Estado se propugna en la Constitución española?",
+        "respuesta": "Estado Social Y Democrático De Derecho",
+        "incorrecta1": "Estado Federal",
+        "incorrecta2": "Estado De Derecho",
+        "incorrecta3": "Estado Liberal\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llama la capital del antiguo imperio azteca?",
+        "respuesta": "Tenochtitlan",
+        "incorrecta1": "Culhuacán",
+        "incorrecta2": "Quetzalcóatl",
+        "incorrecta3": "Texcoco\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " Los cuatro evangelistas de la Biblia son Mateo, Marcos, Lucas y...",
+        "respuesta": "Juan",
+        "incorrecta1": "Antonio",
+        "incorrecta2": "Jesús",
+        "incorrecta3": "José\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién gobernó Francia desde 1799 a 1815?",
+        "respuesta": "Napoleón Bonaparte",
+        "incorrecta1": "Adam Smith",
+        "incorrecta2": "François Quesnay",
+        "incorrecta3": "Louis Bonaldgug\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué modelo de Seat significó la motorización de los españoles?",
+        "respuesta": "600",
+        "incorrecta1": "500",
+        "incorrecta2": "Ibiza",
+        "incorrecta3": "León\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién presidia España durante el fallido golpe de estado del 23 de Febrero de 1981?",
+        "respuesta": "Adolfo Suárez",
+        "incorrecta1": "Leopoldo Calvo Sotelo",
+        "incorrecta2": "Felipe González",
+        "incorrecta3": "Manual Fraga Iribarne\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál es la capital del noroeste de España, la capital del reino homónimo medieval?",
+        "respuesta": "León",
+        "incorrecta1": "Salamanca",
+        "incorrecta2": "Valladolid",
+        "incorrecta3": "Zamora\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿De qué estaba fabricado originalmente el maquillaje blanco de las Geishas?",
+        "respuesta": "Plomo",
+        "incorrecta1": "Harina",
+        "incorrecta2": "Arroz Molido",
+        "incorrecta3": "Flores De Loto\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál de estos nombres en clave no se corresponde con el de una playa del desembarco de Normandía?",
+        "respuesta": "Todos Son Correctos",
+        "incorrecta1": "Utah",
+        "incorrecta2": "Juno",
+        "incorrecta3": "Sword\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué motivó la rebelión que dio lugar a la Guerra de la Independencia de EEUU?",
+        "respuesta": "Impuesto",
+        "incorrecta1": "Esclavitud",
+        "incorrecta2": "Corrupción",
+        "incorrecta3": "Represión\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año se dictó la primera Constitución española?",
+        "respuesta": "1812",
+        "incorrecta1": "1810",
+        "incorrecta2": "1714",
+        "incorrecta3": "1896\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué país nació el protestantismo?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Italia",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Polonia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué imperio llegó a conquistar casi toda Europa?",
+        "respuesta": "Romano",
+        "incorrecta1": "Cartago",
+        "incorrecta2": "Espartano",
+        "incorrecta3": "Vikingo\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quiénes fueron los Reyes Católicos?",
+        "respuesta": "Isabel I Y Fernando II",
+        "incorrecta1": "Juana I Y Felipe I",
+        "incorrecta2": "Isabel II Y Francisco De Asís",
+        "incorrecta3": "Isabel I Y Fernando VII\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿De qué color es el humo que informa a los creyentes de que se ha elegido un Papa nuevo?",
+        "respuesta": "Blanco",
+        "incorrecta1": "Amarillo",
+        "incorrecta2": "Negro",
+        "incorrecta3": "Rojo\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos colores tiene la bandera española?",
+        "respuesta": "Dos",
+        "incorrecta1": "Tres",
+        "incorrecta2": "Cuatro",
+        "incorrecta3": "Uno\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año se instauró el sufragio femenino en España?",
+        "respuesta": "1931",
+        "incorrecta1": "1921",
+        "incorrecta2": "1951",
+        "incorrecta3": "1971\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué sobrenombre tenía Guillermo I de Inglaterra?",
+        "respuesta": "El Conquistador",
+        "incorrecta1": "El Valiente",
+        "incorrecta2": "El Loco",
+        "incorrecta3": "El Tirano\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿María Antonieta fue reina de qué país?",
+        "respuesta": "Francia",
+        "incorrecta1": "Nunca Fue Reina",
+        "incorrecta2": "Países Bajos",
+        "incorrecta3": "Reino Unido\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién conquisto Valencia de los musulmanes?",
+        "respuesta": "Jaume I",
+        "incorrecta1": "El Cid Campeador",
+        "incorrecta2": "Fernando III",
+        "incorrecta3": "Pere El Maestro\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué provincia nació el Cid Campeador?",
+        "respuesta": "Burgos",
+        "incorrecta1": "Salamanca",
+        "incorrecta2": "Cantabria",
+        "incorrecta3": "León\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Dónde vivía Ana Frank?",
+        "respuesta": "Ámsterdam",
+        "incorrecta1": "Viena",
+        "incorrecta2": "Berlín",
+        "incorrecta3": "Brujas\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué ciudad española era conocida como 'Lucentum' por los romanos?",
+        "respuesta": "Alicante",
+        "incorrecta1": "Murcia",
+        "incorrecta2": "Lugo",
+        "incorrecta3": "Barcelona\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué viaje Colón encontró a los mayas?",
+        "respuesta": "Cuarto",
+        "incorrecta1": "Tercero",
+        "incorrecta2": "Segundo",
+        "incorrecta3": "Primero\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llamaba el prisionero que fue liberado por Pilato en lugar de Jesús?",
+        "respuesta": "Barrabás",
+        "incorrecta1": "Judas",
+        "incorrecta2": "José De Arimatea",
+        "incorrecta3": "Jordi Hurtado\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año viajó el primer hombre a la luna?",
+        "respuesta": "1969",
+        "incorrecta1": "1968",
+        "incorrecta2": "1979",
+        "incorrecta3": "1957\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué país fue el aliado de la marina española en la batalla de trafalgar?",
+        "respuesta": "Francia",
+        "incorrecta1": "Inglaterra",
+        "incorrecta2": "Portugal",
+        "incorrecta3": "Rusia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos mandamientos hay en el cristianismo?",
+        "respuesta": "10",
+        "incorrecta1": "9",
+        "incorrecta2": "11",
+        "incorrecta3": "12\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántas huelgas generales se hicieron en España en 2012?",
+        "respuesta": "Dos",
+        "incorrecta1": "Una",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Ninguna\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién ganó las elecciones presidenciales de la república de México en 2012?",
+        "respuesta": "Enrique Peña Nieto",
+        "incorrecta1": "Andrés Manuel",
+        "incorrecta2": "Josefina Vázquez",
+        "incorrecta3": "Gabriel Quadri\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿De dónde es originario el pan con aceite y azúcar?",
+        "respuesta": "Andalucía ",
+        "incorrecta1": "Castilla La Mancha",
+        "incorrecta2": "Valencia",
+        "incorrecta3": "Cataluña\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año se proclamó la II República Española?",
+        "respuesta": "1931",
+        "incorrecta1": "1925",
+        "incorrecta2": "1933",
+        "incorrecta3": "1936\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién es conocido como \" El Victorioso de Alá\"?",
+        "respuesta": "Almanzor",
+        "incorrecta1": "Abderram I",
+        "incorrecta2": "Abderramam III",
+        "incorrecta3": "Hisam II\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Para qué vehículo se necesitó un carné de conducir por primera vez en España?",
+        "respuesta": "Automóvil",
+        "incorrecta1": "Coche De Caballos ",
+        "incorrecta2": "Todos ",
+        "incorrecta3": "Bicicleta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿De qué árbol eran las hojas que llevaban en la cabeza los antiguos romanos para simbolizar la victoria?",
+        "respuesta": "Laurel ",
+        "incorrecta1": "Olivo ",
+        "incorrecta2": "Naranjo ",
+        "incorrecta3": "Pino \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo era la relación de Juana I La Loca con su marido, Felipe I?",
+        "respuesta": "Juana Sentía Unos Celos Patológicos ",
+        "incorrecta1": "Juana Detestaba A Su Marido",
+        "incorrecta2": "Estuvieron Siempre Enamorados",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿A qué reino ha pertenecido históricamente Cataluña?",
+        "respuesta": "Aragón",
+        "incorrecta1": "Francia",
+        "incorrecta2": "Navarra",
+        "incorrecta3": "Castilla\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué país nació el rey Juan Carlos I?",
+        "respuesta": "Italia",
+        "incorrecta1": "Francia",
+        "incorrecta2": "España",
+        "incorrecta3": "Austria\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llamaba el hermano de Napoleón Bonaparte?",
+        "respuesta": "José Bonaparte ",
+        "incorrecta1": "Pierre Bonaparte ",
+        "incorrecta2": "Pita Bonaparte ",
+        "incorrecta3": "Ernesto Bonaparte\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál era el nombre de pila de Lenin?",
+        "respuesta": "Vladímir",
+        "incorrecta1": "Aléksey",
+        "incorrecta2": "Iósif",
+        "incorrecta3": "Aleksandr\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " Libertad, Igualdad... ¿Cuál es el tercer término del lema de la Revolución Francesa?",
+        "respuesta": "Fraternidad ",
+        "incorrecta1": "Apacibilidad",
+        "incorrecta2": "Austeridad",
+        "incorrecta3": "Probabilidad\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué ciudad fue llamada por los árabes Albasti?",
+        "respuesta": "Albacete",
+        "incorrecta1": "Alicante ",
+        "incorrecta2": "Albarracín",
+        "incorrecta3": "Almería \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál es la fruta de Canarias?",
+        "respuesta": "Plátano",
+        "incorrecta1": "Manzana",
+        "incorrecta2": "Pera",
+        "incorrecta3": "Naranja\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál es el nombre fenicio de la ciudad de Málaga?",
+        "respuesta": "Malaka",
+        "incorrecta1": "Cártago ",
+        "incorrecta2": "Malake",
+        "incorrecta3": "Gades\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué Imperio se disolvió, después de 846 años, el 6 de agosto de 1806?",
+        "respuesta": "El Sacro Imperio Romano Germánico",
+        "incorrecta1": "El Imperio Bizantino ",
+        "incorrecta2": "El Imperio De Los Samuráis",
+        "incorrecta3": "El Imperio Dorado De Los Incas \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿De qué manera consiguió EEUU el estado de Alaska de manos de Rusia?",
+        "respuesta": "Lo Compró",
+        "incorrecta1": "Lo Conquistó",
+        "incorrecta2": "Lo Invadió",
+        "incorrecta3": "Siempre Perteneció A EE.UU.\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo era conocido también el faraón Akenatón, por adorar a un solo Dios?",
+        "respuesta": "El Hereje",
+        "incorrecta1": "El Feo ",
+        "incorrecta2": "El Ateo ",
+        "incorrecta3": "El Loco \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién dijo que la diferencia entre la estupidez y la genialidad es que la genialidad tiene límites?",
+        "respuesta": "Einstein",
+        "incorrecta1": "Gandhi",
+        "incorrecta2": "Nietzsche",
+        "incorrecta3": "Wilde\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Dónde se encuentra actualmente la Dama de Elche?",
+        "respuesta": "En Madrid",
+        "incorrecta1": "En Elche ",
+        "incorrecta2": "En Segovia",
+        "incorrecta3": "En Barcelona\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué tres estamentos estaba dividida la sociedad en el Antiguo Régimen?",
+        "respuesta": "Clero, Nobleza Y Tercer Estado",
+        "incorrecta1": "Déspotas, Nobleza Y Judíos",
+        "incorrecta2": "Déspotas, Clero Y Corte ",
+        "incorrecta3": "Nobleza, Tercer Estado Y Judíos\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué otro nombre recibió la Primera Guerra Mundial hasta 1939?",
+        "respuesta": "La Gran Guerra",
+        "incorrecta1": "La Guerra De Los 100 Años",
+        "incorrecta2": "La Guerra Entre Las Guerras",
+        "incorrecta3": "Ningún Otro\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año dejó de existir el estado llamado Yugoslavia?",
+        "respuesta": "2003",
+        "incorrecta1": "1989",
+        "incorrecta2": "1991",
+        "incorrecta3": "1994\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llamaba el hijo bastardo de Carlos V?",
+        "respuesta": "Juan De Austria",
+        "incorrecta1": "Duque De Alba",
+        "incorrecta2": "Juan De Tordesillas",
+        "incorrecta3": "Marqués De Villena\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué título recibían los soberanos musulmanes en España?",
+        "respuesta": "Califa ",
+        "incorrecta1": "Rey ",
+        "incorrecta2": "Jeque ",
+        "incorrecta3": "Khaleesi \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué comunidad autónoma tiene más kilómetros de costa?",
+        "respuesta": "Galicia ",
+        "incorrecta1": "Asturias ",
+        "incorrecta2": "Andalucía ",
+        "incorrecta3": "Islas Baleares \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién descubrió América?",
+        "respuesta": "Cristóbal Colón ",
+        "incorrecta1": "Fernando Alonso ",
+        "incorrecta2": "Ludwing Van Beethoven ",
+        "incorrecta3": "Un Hombre Lobo \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año se abrió el canal de Panamá?",
+        "respuesta": "1914",
+        "incorrecta1": "1879",
+        "incorrecta2": "1810",
+        "incorrecta3": "1888\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año se perpetró la matanza de My Lai?",
+        "respuesta": "1968",
+        "incorrecta1": "1955",
+        "incorrecta2": "1974",
+        "incorrecta3": "1975\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué Emperador Romano estuvo más años en el poder?",
+        "respuesta": "Octavio Augusto ",
+        "incorrecta1": "Vespasiano",
+        "incorrecta2": "Claudio",
+        "incorrecta3": "Adriano \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué heroína de la Guerra de la Independencia Española murió en Ceuta?",
+        "respuesta": "Agustina De Aragón ",
+        "incorrecta1": "Manuela Malasaña ",
+        "incorrecta2": "Mariana Pineda ",
+        "incorrecta3": "María Cristina \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué siglo termina la Edad Media?",
+        "respuesta": "XV",
+        "incorrecta1": "XIII",
+        "incorrecta2": "XIV",
+        "incorrecta3": "XVI\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año subió Bismarck al poder? ",
+        "respuesta": "1862",
+        "incorrecta1": "1871",
+        "incorrecta2": "1921",
+        "incorrecta3": "1857\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿A qué criatura atribuían los pilotos ingleses las fallas de sus aviones durante la Segunda Guerra Mundial?",
+        "respuesta": "A Los Gremlins",
+        "incorrecta1": "A Los Erdzwerge",
+        "incorrecta2": "A Los Duendes ",
+        "incorrecta3": "A Los Leprechauns\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué siglo Europa conquistó Australia?",
+        "respuesta": "XVII",
+        "incorrecta1": "XII",
+        "incorrecta2": "XIV",
+        "incorrecta3": "XVI\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuáles son los principios del Derecho?",
+        "respuesta": "Equidad Y Justicia",
+        "incorrecta1": "Igualdad Y Seguridad",
+        "incorrecta2": "Seguridad Y Rectitud",
+        "incorrecta3": "Legalidad Y Justicia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién fue Bobby Fischer?",
+        "respuesta": "Una Leyenda Del Ajedrez",
+        "incorrecta1": "Un Futbolista Histórico",
+        "incorrecta2": "El Inventor Del Fisch",
+        "incorrecta3": "Un Filósofo Norteamericano\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué francés fue guillotinado por Robespierre durante la Revolución Francesa?",
+        "respuesta": "Luis XVI",
+        "incorrecta1": "Luis XIV",
+        "incorrecta2": "Carlos X ",
+        "incorrecta3": "Ninguno \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llama la casilla del centinela?",
+        "respuesta": "Garita",
+        "incorrecta1": "Casita",
+        "incorrecta2": "Pecera",
+        "incorrecta3": "Cabina\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién es el sucesor directo de Juan Carlos I?",
+        "respuesta": "Felipe VI",
+        "incorrecta1": "Infanta Leonor",
+        "incorrecta2": "Leticia Ortiz",
+        "incorrecta3": "Infanta Sofía\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué nombre recibían las mayores circunscripciones políticas y administrativas en la América dominada por España?",
+        "respuesta": "Virreinato",
+        "incorrecta1": "Sedes",
+        "incorrecta2": "Centros ",
+        "incorrecta3": "Subreinados \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " El cristianismo y el islamismo son las religiones más extendidas en el mundo. ¿Cuál es la siguiente?",
+        "respuesta": "El Hinduismo",
+        "incorrecta1": "El Budismo",
+        "incorrecta2": "Las Religiones Indígenas",
+        "incorrecta3": "La Religión Tradicional China\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos meses duró la Batalla de Moscú, que tuvo lugar durante la Segunda Guerra Mundial?",
+        "respuesta": "Tres",
+        "incorrecta1": "Cuatro",
+        "incorrecta2": "Cinco ",
+        "incorrecta3": "Seis \r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué idioma se escribió el antiguo testamento por primera vez?",
+        "respuesta": "Hebreo",
+        "incorrecta1": "Griego",
+        "incorrecta2": "Latín",
+        "incorrecta3": "Jesuíta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién recibió en 2009 el Premio Nobel de la Paz?",
+        "respuesta": "Barack Obama",
+        "incorrecta1": "Bill Clinton",
+        "incorrecta2": "Homer Simpson",
+        "incorrecta3": "Michelle Obama\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál de estas afirmaciones sobre Buenaventura Durruti no es cierta?",
+        "respuesta": "Todas Son Ciertas",
+        "incorrecta1": "Militó En La CNT",
+        "incorrecta2": "Murió Al Comienzo De La Guerra Civil Española",
+        "incorrecta3": "Atracó El Banco De España En 1923\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Según el griego, qué significa el nombre \"Mesopotamia\"?",
+        "respuesta": "Entre Ríos",
+        "incorrecta1": "Ciudad Con Poderío",
+        "incorrecta2": "Arriba De Los Ríos",
+        "incorrecta3": "Dios Del Río\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Presidenta de Costa Rica en 2013?",
+        "respuesta": "Laura Chinchilla",
+        "incorrecta1": "Cristina Fernández De Kirchner",
+        "incorrecta2": "Isabel Martínez De Perón",
+        "incorrecta3": "Michelle Bachelet\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué universidad cumplió 125 años en 2011?",
+        "respuesta": "Deusto",
+        "incorrecta1": "Harvard ",
+        "incorrecta2": "Oxford",
+        "incorrecta3": "Uem\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué científico alemán trabajó NASA?",
+        "respuesta": "Wernher Von Braun",
+        "incorrecta1": "Claus Von Stauffenberg ",
+        "incorrecta2": "Joachim Von Ribbentrop",
+        "incorrecta3": "Ninguno De Ellos\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué ciudad se proclamó la primera constitución liberal de España en 1812?",
+        "respuesta": "Cádiz ",
+        "incorrecta1": "Madrid ",
+        "incorrecta2": "San Fernando",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año empezó la Guerra del Golfo Pérsico?",
+        "respuesta": "1990",
+        "incorrecta1": "1985",
+        "incorrecta2": "1995",
+        "incorrecta3": "1999\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Durante qué años reinó de forma impuesta en España José Bonaparte?",
+        "respuesta": "Desde 1808 A 1813",
+        "incorrecta1": "Desde 1798 A 1810",
+        "incorrecta2": "Desde 1801 A 1805",
+        "incorrecta3": "Desde 1801 A 1812\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué guerra se hundieron los buques Sheffiel y Coventry?",
+        "respuesta": "Malvinas",
+        "incorrecta1": "Primera Guerra Mundial",
+        "incorrecta2": "Segunda Guerra Mundial",
+        "incorrecta3": "Guerra De Independencia De EE.UU.\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál fue el primer trayecto en tren en España?",
+        "respuesta": "Barcelona  Mataró",
+        "incorrecta1": "Madrid  Barcelona",
+        "incorrecta2": "Madrid  Aranjuez",
+        "incorrecta3": "Madrid  Alicante\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿De qué país es originario el queso Emmental?",
+        "respuesta": "Suiza",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Holanda\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Presidenta de Costa Rica en 2014?",
+        "respuesta": "Luis Guillermo Solís",
+        "incorrecta1": " Monica Solís",
+        "incorrecta2": "Diego Solís",
+        "incorrecta3": "Cristina Solís"
+    }
+]

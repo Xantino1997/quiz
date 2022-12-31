@@ -1,0 +1,1037 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Qué personaje de Shakespeare enloqueció de celos?",
+        "respuesta": "Otelo",
+        "incorrecta1": "Romeo ",
+        "incorrecta2": "Hamlet",
+        "incorrecta3": "Mercurio\r",
+        "imagen": "https://i.ibb.co/bzrSyrs/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió la saga 'Fundación'?",
+        "respuesta": "Isaac Asimov",
+        "incorrecta1": "Ken Follett",
+        "incorrecta2": "T.Benacquista",
+        "incorrecta3": "Julio Verne\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿A qué movimiento artístico pertenece Rosalía de Castro?",
+        "respuesta": "Romanticismo",
+        "incorrecta1": "Modernismo ",
+        "incorrecta2": "Realismo",
+        "incorrecta3": "Vanguardias\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó 'Las Meninas'?",
+        "respuesta": "Velázquez",
+        "incorrecta1": "Van Gogh",
+        "incorrecta2": "Goya",
+        "incorrecta3": "Monet\r",
+        "imagen": "https://i.ibb.co/Hrk7HQ2/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cuál era el nombre de la protagonista 'El maravilloso Mago de Oz'?",
+        "respuesta": "Dorothy",
+        "incorrecta1": "Em",
+        "incorrecta2": "Agatha",
+        "incorrecta3": "Alicia\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién se dice que inventó la fábula?",
+        "respuesta": "Esopo",
+        "incorrecta1": "Platón ",
+        "incorrecta2": "Eurípides ",
+        "incorrecta3": "Sócrates \r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó 'Galatea de las esferas'?",
+        "respuesta": "Salvador Dalí",
+        "incorrecta1": "William Turner",
+        "incorrecta2": "Monet",
+        "incorrecta3": "Goya\r",
+        "imagen": "https://i.ibb.co/G92H7y6/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Dónde comenzó y terminó 'La vuelta al mundo en ochenta días'?",
+        "respuesta": "Londres",
+        "incorrecta1": "Berlín ",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Nueva York\r",
+        "imagen": "https://i.ibb.co/yybKcz2/image.webp"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó 'La miel es más dulce que la sangre'?",
+        "respuesta": "Salvador Dalí",
+        "incorrecta1": "Tomasso Masaccio",
+        "incorrecta2": "Monet",
+        "incorrecta3": "Picasso \r",
+        "imagen": "https://i.ibb.co/7XNypnD/00.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó 'Carlos III', cuadro de la colección del Museo del Prado?",
+        "respuesta": "Anton Raphael Mengs ",
+        "incorrecta1": "Edgar Degas",
+        "incorrecta2": "El Greco",
+        "incorrecta3": "Vincent Van Gogh\r",
+        "imagen": "https://i.ibb.co/BGvGLrM/255ec66c-04a7-4db7-a013-34141700647e-832.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Qué obra de Dante Alighieri cuenta con tres partes, 'Infierno', 'Purgatorio' y 'Paraíso'?",
+        "respuesta": "Divina Comedia",
+        "incorrecta1": "El Infierno",
+        "incorrecta2": "Las 3 Delicias",
+        "incorrecta3": "Sobrenatural\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió 'Coplas por la muerte de su padre'?",
+        "respuesta": "Jorge Manrique",
+        "incorrecta1": "Juan De Mena",
+        "incorrecta2": "Boccaccio",
+        "incorrecta3": "Antonio De Nebrija\r"
+    },
+    
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Lo que describe una prosopografía.",
+        "respuesta": "El Físico De Una Persona",
+        "incorrecta1": "La estructura de un Poema",
+        "incorrecta2": "El Autor De Una Obra En Prosa",
+        "incorrecta3": "Un Auto\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor español que firmaba como Fígaro.",
+        "respuesta": "Mariano José De Larra",
+        "incorrecta1": "Mercedes Abad",
+        "incorrecta2": "Fígaro",
+        "incorrecta3": "Manuel Vázquez Montalbán\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "donde pertenece la colección de relatos folklóricos llamada Mabinogion",
+        "respuesta": "Gales",
+        "incorrecta1": "Alejandría",
+        "incorrecta2": "Londres",
+        "incorrecta3": "Irlanda Del Norte\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "escribió la música del himno de la Comunidad de Valencia",
+        "respuesta": "José Serrano Simeón",
+        "incorrecta1": "Pedro Figueredo",
+        "incorrecta2": "Antonio Neumane",
+        "incorrecta3": "Ludwig Van Beethoven"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Obra a la que pertenece este fragmento: 'No es verdad, ángel de amor, que en esta apartada orilla...'",
+        "respuesta": "Don Juan Tenorio",
+        "incorrecta1": "La Tempestad",
+        "incorrecta2": "Macbeth",
+        "incorrecta3": "Hamlet \r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Siglo en el que nació el artista conocido como Caravaggio",
+        "respuesta": "XVI",
+        "incorrecta1": "XX",
+        "incorrecta2": "X",
+        "incorrecta3": "XIV\r",
+        "imagen": "https://i.ibb.co/4P0QTLz/image.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " Gente que no posee magia en la saga de Harry Potter.",
+        "respuesta": "Muggles",
+        "incorrecta1": "Hufflepuffs",
+        "incorrecta2": "Ratñingers",
+        "incorrecta3": "Kubys\r",
+        "imagen": "https://i.ibb.co/swnsyLp/harry-potter.gif",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Obra de mármol de Miguel Ángel que se encuentra en la Basílica de San Pedro",
+        "respuesta": "La Piedad",
+        "incorrecta1": "La Turbación",
+        "incorrecta2": "La Cruz",
+        "incorrecta3": "La Mona Lisa\r",
+        "imagen": "https://i.ibb.co/7vHK9tX/cincel.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "La autoría de la pintura 'El Coloso' se ha puesto muy en duda ¿A quién se le atribuye tradicionalmente?",
+        "respuesta": "Goya",
+        "incorrecta1": "Gabriel García Márquez",
+        "incorrecta2": "Pablo Neruda",
+        "incorrecta3": "Antonio Gamoneda\r",
+        "imagen": "https://i.ibb.co/J7gFfpz/ey-J0e-XAi-Oi-JKV1-Qi-LCJhb-Gci-Oi-JIUz-I1-Ni-J9-ey-Jpb-SI6-Wy-Jc-L2-Fyd-Hdvcmtc-L2lt-YWdl-Rmls-ZVwv.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Qué odia Mafalda?",
+        "respuesta": "La Sopa",
+        "incorrecta1": "El Ruido",
+        "incorrecta2": "La Gente",
+        "incorrecta3": "A Su Madre\r",
+        "imagen": "https://i.ibb.co/ypVN1Lh/D7wrc99-D-400x400.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor al que pertenece la obra 'Serpientes de agua'",
+        "respuesta": "Gustav Klimt",
+        "incorrecta1": "Monet",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Don Juan Tenorio\r",
+        "imagen": "https://i.ibb.co/44dLgpS/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Hizo la obra \"La vida es sueño\".",
+        "respuesta": "Calderón De La Barca",
+        "incorrecta1": "Goya",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Pablo Neruda\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " Pintó La Capilla Sixtina.",
+        "respuesta": "Miguel Ángel",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Monet",
+        "incorrecta3": "Gustave Klimt\r",
+        "imagen": "https://i.ibb.co/b3D8kfr/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "filósofo que dijo 'solo sé que no sé nada'",
+        "respuesta": "Sócrates",
+        "incorrecta1": "Edipo",
+        "incorrecta2": "Arquímedes",
+        "incorrecta3": "Pitágoras\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "es la autora de \"Los Juegos del Hambre\"",
+        "respuesta": "Suzanne Collins",
+        "incorrecta1": "Katherine burn",
+        "incorrecta2": "Penelope Sanchez",
+        "incorrecta3": "Katniss Everdeen\r",
+        "imagen": "https://i.ibb.co/MZD855H/image.gif"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "autor del libro \"El gato negro y otros cuentos de terror\"",
+        "respuesta": "Edgar Allan Poe",
+        "incorrecta1": "Gabriel García Márquez",
+        "incorrecta2": "Goya",
+        "incorrecta3": "Calderón De La Barca\r",
+        "imagen": "https://i.ibb.co/kxw7zFF/image.gif"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cómo despertó el príncipe a la Bella Durmiente?",
+        "respuesta": "Besándola",
+        "incorrecta1": "Golpeándola",
+        "incorrecta2": "Acariciándola",
+        "incorrecta3": "Mojándola"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "compuso la famosa canción \"Bohemian Rhapsody\"",
+        "respuesta": "Freddie Mercury",
+        "incorrecta1": "Ozzy Osbourne",
+        "incorrecta2": "Bon Scott",
+        "incorrecta3": "Steven Tyler\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "famosa artista que estaba casada con su colega, Diego Rivera",
+        "respuesta": "Frida Kahlo",
+        "incorrecta1": "Artemisia Gentileschi",
+        "incorrecta2": "Mary Cassatt",
+        "incorrecta3": "Camille Claudel\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "artista que expuso un orinal con el título 'La fuente'",
+        "respuesta": "Marcel Duchamp",
+        "incorrecta1": "Valle-Inclán",
+        "incorrecta2": "Efraín Huerta",
+        "incorrecta3": "Antón Wiertz\r",
+        "imagen": "https://i.ibb.co/wWrMvFY/1366-2000.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Poeta que escribió 'A galopar'.",
+        "respuesta": "Rafael Alberti ",
+        "incorrecta1": "Gerhard Richter",
+        "incorrecta2": "Pablo Picasso",
+        "incorrecta3": "Manuel Caballero\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Filme con que el director Alfonso Cuarón ganó un premio Oscar 2014?",
+        "respuesta": "Gravity",
+        "incorrecta1": "Lo Que El Agua Se Llevo",
+        "incorrecta2": "Harry Potter",
+        "incorrecta3": "The X Men\r",
+        "imagen": "https://i.ibb.co/PzvzGQH/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de \"El principito\".",
+        "respuesta": "Antoine De Saint Exupery",
+        "incorrecta1": "Edgar Allan Poe",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Goya\r",
+        "imagen": "https://i.ibb.co/kBbSVVs/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Estilo artístico que es la catedral de Santa María de Toledo.",
+        "respuesta": "Gótico",
+        "incorrecta1": "  Barroco",
+        "incorrecta2": "Neoclásico",
+        "incorrecta3": "Manierista\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escribió 'Don Juan Tenorio'.",
+        "respuesta": "Jose Zorrilla",
+        "incorrecta1": "Antoine De Saint Exupery",
+        "incorrecta2": "Edgar Allan Poe",
+        "incorrecta3": "Gabriel García Márquez\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pseudónimo con que se conocía al escritor José Martínez Ruiz.",
+        "respuesta": "Azorín",
+        "incorrecta1": " Lope De Vega",
+        "incorrecta2": "Lord Byron",
+        "incorrecta3": "El Greco\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió el poema cuyo inicio es \"Pegasos, lindos Pegasos, caballitos de madera\".?",
+        "respuesta": "Antonio Machado",
+        "incorrecta1": "Pablo Neruda",
+        "incorrecta2": "Antonio Gamoneda",
+        "incorrecta3": "Jorge Edwards\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Dónde nació Shakespeare?",
+        "respuesta": "Stratford Upon Avon",
+        "incorrecta1": "El Nido ",
+        "incorrecta2": "Modesto",
+        "incorrecta3": "Marlborough\r",
+        "imagen": "https://i.ibb.co/bzrSyrs/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Género teatral intermedio entre la comedia y la tragedia.",
+        "respuesta": "Drama",
+        "incorrecta1": "Suspenso",
+        "incorrecta2": "Poesía",
+        "incorrecta3": "Novela\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor del libro \"Once minutos\".",
+        "respuesta": "Paulo Coelho",
+        "incorrecta1": "Antonio Machado",
+        "incorrecta2": "Pablo Neruda",
+        "incorrecta3": "Antonio Gamoneda\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Material del que está hecho un saxofón.",
+        "respuesta": "Latón",
+        "incorrecta1": "Cromo",
+        "incorrecta2": "Cobalto",
+        "incorrecta3": "Cobre\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintó el famoso cuadro de pop art 'Latas de sopa Campbell'.",
+        "respuesta": "Andy Warhol",
+        "incorrecta1": "Roy Lichtenstein",
+        "incorrecta2": "David Hockney",
+        "incorrecta3": "Robert Rauschenberg\r",
+        "imagen": "https://i.ibb.co/dQL3Rw5/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de la novela 'Crimen y Castigo'.",
+        "respuesta": "Fiodor Dostoyevski",
+        "incorrecta1": "Gabriel García Márquez",
+        "incorrecta2": "William Shakespeare",
+        "incorrecta3": "Miguel De Cervantes Saavedra\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de \"La Celestina\".",
+        "respuesta": "Fernando De Rojas",
+        "incorrecta1": "Pablo Neruda",
+        "incorrecta2": "Mario Vargas Llosa",
+        "incorrecta3": "Mario Benedetti\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Animal que son los polacos en la novela gráfica sobre el Holocausto nazi 'Maus'.",
+        "respuesta": "Cerdos",
+        "incorrecta1": "Ratas",
+        "incorrecta2": "Sapos",
+        "incorrecta3": "Viboras\r",
+        "imagen": "https://i.ibb.co/JyRwWLF/Maus-Art-Spiegelman-980x450.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escribió ' El modulor'.",
+        "respuesta": "Le Corbusier",
+        "incorrecta1": "Ana Frank",
+        "incorrecta2": "Jorge Luis Borges",
+        "incorrecta3": "Charles Dickens\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Músico argentino que le apodaban \"El Flaco\".",
+        "respuesta": "Luis Alberto Spinetta",
+        "incorrecta1": "Gustavo Cerati",
+        "incorrecta2": "Andrés Calamaro",
+        "incorrecta3": "Diego Torres\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Arte japonés de la papiroflexia.",
+        "respuesta": "Origami",
+        "incorrecta1": "Haiku",
+        "incorrecta2": "Ikebana",
+        "incorrecta3": "Ukiyo-E\r",
+        "imagen": "https://i.ibb.co/ZmTsdq4/152311543.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Dirigió la película \"Lo Que El Viento Se Llevó\".",
+        "respuesta": "Víctor Fleming",
+        "incorrecta1": "Steven Spielberg",
+        "incorrecta2": "Alfred Hitchcock",
+        "incorrecta3": "Martin Scorsese\r",
+        "imagen": "https://i.ibb.co/5nxDtzb/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de \"20 poemas de amor y una canción desesperada\".",
+        "respuesta": "Pablo Neruda",
+        "incorrecta1": "Rosalía De Castro",
+        "incorrecta2": "Pedro Antonio De Alarcón",
+        "incorrecta3": "Miguel De Cervantes Saavedra\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Guitarrista de la banda de rock \"Chickenfoot\".",
+        "respuesta": "Joe Satriani",
+        "incorrecta1": "Jimmy Hendrix ",
+        "incorrecta2": "Eric Clapton ",
+        "incorrecta3": "Tony Iommi \r",
+        "imagen": "https://i.ibb.co/DLKZDvf/537685-logo.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autora de \"Lo que el viento se llevó\".",
+        "respuesta": "Margaret Mitchell",
+        "incorrecta1": "Gabriela Mistral",
+        "incorrecta2": "Isabel Allende",
+        "incorrecta3": "Agatha Christie\r",
+        "imagen": "https://i.ibb.co/5nxDtzb/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escribió \"Abaddón el Exterminador\".",
+        "respuesta": "Ernesto Sábato",
+        "incorrecta1": "Mario Benedetti",
+        "incorrecta2": "Julio Cortázar",
+        "incorrecta3": "Paulo Coelho\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Generación a la que pertenece García Lorca.",
+        "respuesta": "Del 27",
+        "incorrecta1": "Generación X",
+        "incorrecta2": "Mileurista",
+        "incorrecta3": "Del 40\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Capítulos que tiene el Corán.",
+        "respuesta": "104",
+        "incorrecta1": "69",
+        "incorrecta2": "200",
+        "incorrecta3": "940\r",
+        "imagen": "https://i.ibb.co/rQ5xM3W/unnamed.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de \"El amor en los tiempos de cólera\".",
+        "respuesta": "Gabriel García Márquez",
+        "incorrecta1": "Alejandro Dumas",
+        "incorrecta2": "William Shakespeare",
+        "incorrecta3": "Antón Chéjov\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escribió la novela \"María\".",
+        "respuesta": "Jorge Isaacs",
+        "incorrecta1": "Fedor Dostoievski",
+        "incorrecta2": "Miguel Hernández",
+        "incorrecta3": "Homero\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "La restauradora del Ecce Homo de Borja.",
+        "respuesta": "Cecilia Gimenez Sueco",
+        "incorrecta1": "Máxima Greslyn",
+        "incorrecta2": "Clementina Loreta",
+        "incorrecta3": "Doris Neydi\r",
+        "imagen": "https://i.ibb.co/ZHzfnyc/eccehomo.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Animal que quería ser domesticado por El Principito.",
+        "respuesta": "Zorro",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Paloma",
+        "incorrecta3": "Sapo\r",
+        "imagen": "https://i.ibb.co/kBbSVVs/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " Artista que aparece retratado en \"Las Meninas\".",
+        "respuesta": "Velázquez ",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Da Vinci",
+        "incorrecta3": "Miguel Ángel\r",
+        "imagen": "https://i.ibb.co/Hrk7HQ2/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Una fábula es un cuento que finaliza con una enseñanza que se llama…",
+        "respuesta": "Moraleja",
+        "incorrecta1": "Desenlace",
+        "incorrecta2": "Conclusión",
+        "incorrecta3": "Nudo\r"
+    },
+    {
+        "categoria": "Geología",
+        "pregunta": "¿Cuál es el mineral más duro del planeta?",
+        "respuesta": "Diamante",
+        "incorrecta1": "Adamantino",
+        "incorrecta2": "Cuarzo ",
+        "incorrecta3": "Mármol\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor del poema épico \"Siegfried\".",
+        "respuesta": "Richard Wagner ",
+        "incorrecta1": "Gustavo Adolfo Bécquer",
+        "incorrecta2": "Lope De Vega",
+        "incorrecta3": "Mario Vargas Llosa\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Grupo español del que es la canción \"Maldito Duende\".",
+        "respuesta": "Héroes Del Silencio",
+        "incorrecta1": "Barón Rojo",
+        "incorrecta2": "Mojinos Escozíos",
+        "incorrecta3": "Saratoga\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " Escribió 'Grandes esperanzas'.",
+        "respuesta": "Charles Dickens",
+        "incorrecta1": "Virginia Woolf",
+        "incorrecta2": "Henry James",
+        "incorrecta3": "James Joyce\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "País del que fue el rey el inspirador de la tragedia 'Macbeth'.",
+        "respuesta": "Escocia",
+        "incorrecta1": "Irlanda",
+        "incorrecta2": "Inglaterra",
+        "incorrecta3": "Francia\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escribió \"El Patito Feo\".",
+        "respuesta": "Hans Christian Andersen",
+        "incorrecta1": "Los Hermanos Grimm",
+        "incorrecta2": "Charles Perrault",
+        "incorrecta3": "Saturnino Calleja\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "El premio Pritzker es de…",
+        "respuesta": "Arquitectura",
+        "incorrecta1": "Fotografía",
+        "incorrecta2": "Periodismo",
+        "incorrecta3": "Diseño Gráfico\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿En qué ciudad podrás disfrutar del famoso cuadro de El Bosco, \"El jardín de las delicias\"?",
+        "respuesta": "Madrid",
+        "incorrecta1": "Ámsterdam",
+        "incorrecta2": "Nueva York",
+        "incorrecta3": "Florencia\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Impresionista francés que pintó casi 250 cuadros de Nenúfares.",
+        "respuesta": "Claude Monet",
+        "incorrecta1": "Édouard Manet",
+        "incorrecta2": "Paul Cézanne",
+        "incorrecta3": "Pierre-Auguste Renoir\r",
+        "imagen": "https://i.ibb.co/y4fQWd8/monet-water-lilies-5.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿En qué año se publicó la primera parte del Quijote?",
+        "respuesta": "1605",
+        "incorrecta1": "1615",
+        "incorrecta2": "1625",
+        "incorrecta3": "1635\r",
+        "imagen": "https://i.ibb.co/XS5x1G0/quijote-1.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿En qué siglo nació William Shakespeare?",
+        "respuesta": "XVI",
+        "incorrecta1": "XIX",
+        "incorrecta2": "XV",
+        "incorrecta3": "XVII\r",
+        "imagen": "https://i.ibb.co/bzrSyrs/image.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Dónde nació el Nobel español Vicente Aleixandre?",
+        "respuesta": "Sevilla",
+        "incorrecta1": "Valladolid",
+        "incorrecta2": "La Coruña",
+        "incorrecta3": "Alicante\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de las célebres fábulas 'La lechera' y 'La cigarra y la hormiga'.",
+        "respuesta": "Samaniego",
+        "incorrecta1": "Hans Christian Andersen",
+        "incorrecta2": "Esopo",
+        "incorrecta3": "Gloria Fuentes\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió “Fahrenheit 451”, “Crónicas Marcianas” y “El hombre ilustrado”?",
+        "respuesta": "Ray Bradbury",
+        "incorrecta1": "Cormac Mccarthy",
+        "incorrecta2": "Philip Roth",
+        "incorrecta3": "David Foster Wallace\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cuál era el nombre del jefe de Mortadelo y Filemón?",
+        "respuesta": "Vicente",
+        "incorrecta1": "Bacterio",
+        "incorrecta2": "Alfredo",
+        "incorrecta3": "Diego\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió la novela 'La Galatea'?",
+        "respuesta": "Cervantes",
+        "incorrecta1": "Shakespeare",
+        "incorrecta2": "Unamuno",
+        "incorrecta3": "Anónimo\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es el autor de \"Humillados y Ofendidos\"?",
+        "respuesta": "Fiodor Dostoyevski",
+        "incorrecta1": "Anton Chejov",
+        "incorrecta2": "Franz Kafka",
+        "incorrecta3": "Leon Tolstoi\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pinto 'La Gioconda'?",
+        "respuesta": "Leonardo Da Vinci",
+        "incorrecta1": "Miguel Ángel",
+        "incorrecta2": "Rafael",
+        "incorrecta3": "Tiziano\r",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿En qué ciudad nórdica está situada la acción de la trilogía Millenium, del escritor Stieg Larsson?",
+        "respuesta": "Estocolmo",
+        "incorrecta1": "Oslo",
+        "incorrecta2": "Helsinki",
+        "incorrecta3": "Copenhague\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "respuesta": "Sherlock Holmes",
+        "incorrecta1": "Katniss Everdeen",
+        "incorrecta2": "Hermione Jean Granger",
+        "incorrecta3": "Harry James Potter \r",
+        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Género al que pertenece la novela \"La historia del ojo\" de George Bataille",
+        "respuesta": "Erótico",
+        "incorrecta1": "Drama",
+        "incorrecta2": "Terror",
+        "incorrecta3": "Suspenso\r",
+        "imagen": "https://i.ibb.co/dgfv8zK/el-ojo.gif"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "imagen": "https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "profesión que tenía Hércules Poirot en las novelas de Agatha Christie.",
+        "respuesta": "Detective",
+        "incorrecta1": "Abogado",
+        "incorrecta2": "Escritor",
+        "incorrecta3": "Vocero\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de la obra teatral \"Casa de Muñecas\"",
+        "respuesta": "Henrik Ibsen",
+        "incorrecta1": "Edward Albee‎ ",
+        "incorrecta2": "Samuel Beckett‎ ",
+        "incorrecta3": "Albert Camus‎\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Cosa perdida que buscaba Marcel Proust.",
+        "respuesta": "El Tiempo",
+        "incorrecta1": "La Cabeza",
+        "incorrecta2": "Su Lengua",
+        "incorrecta3": "La Luz\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El túnel\"",
+        "respuesta": "Ernesto Sábato",
+        "incorrecta1": "Ernest Hemingway",
+        "incorrecta2": "Julio Verne",
+        "incorrecta3": "Gabriel García Márquez\r",
+        "imagen": "https://i.ibb.co/vdTD5sF/el-tunel.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de \"Moby Dick\"",
+        "respuesta": "Herman Melville",
+        "incorrecta1": "Ernesto Sábato",
+        "incorrecta2": "Ernest Hemingway",
+        "incorrecta3": "Julio Verne\r",
+        "imagen": "https://i.ibb.co/gVQXD5q/mobi.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Introdujo la lira en la lírica española.",
+        "respuesta": "Garcilaso De La Vega",
+        "incorrecta1": "Robert Langdom",
+        "incorrecta2": "Ernest Hemingway",
+        "incorrecta3": "Edward Albee‎ \r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "protagonista de \"El código Da Vinci\" de Dan Brown",
+        "respuesta": "Robert Langdom",
+        "incorrecta1": "Sherlock Holmes",
+        "incorrecta2": "Katniss Everdeen",
+        "incorrecta3": "Hermione Jean Granger\r",
+        "imagen": "https://i.ibb.co/hDzmpKG/code-da-vinci.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Es el género más cultivado por los autores de la generación del 27",
+        "respuesta": "Poesía",
+        "incorrecta1": "Prosa",
+        "incorrecta2": "Suspenso",
+        "incorrecta3": "Terror\r",
+        "imagen": "https://i.ibb.co/qmrQJhM/27.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿En qué ciudad tiene lugar la acción de la novela 'Fortunata y Jacinta'?",
+        "respuesta": "Madrid",
+        "incorrecta1": "Barcelona",
+        "incorrecta2": "Valencia",
+        "incorrecta3": "Bilbao\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es la autora de la novela 'La señora Dalloway'?",
+        "respuesta": "Virginia Woolf",
+        "incorrecta1": "Emily Brontë",
+        "incorrecta2": "Agatha Christie",
+        "incorrecta3": "Jane Austen\r"
+    },
+ 
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿De qué época artística es el pintor Bartolomé Esteban Murillo?",
+        "respuesta": "Barroco",
+        "incorrecta1": "Románico",
+        "incorrecta2": "Romántico",
+        "incorrecta3": "Gótico\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió la obra \"Trabajo asalariado y capital\"?",
+        "respuesta": "Karl Marx",
+        "incorrecta1": "Friedrich",
+        "incorrecta2": "Antonio Gramsci",
+        "incorrecta3": "Mao Tse Tung\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cómo se denomina a la poesía popular creada durante la Edad Media  por los juglares?",
+        "respuesta": "Mester De Juglaría",
+        "incorrecta1": "Mester De Clerecía",
+        "incorrecta2": "Cantar De Gesta",
+        "incorrecta3": "Juglariense\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Qué poeta escribió 'Mi bufón'?",
+        "respuesta": "Antonio Machado",
+        "incorrecta1": "Gustavo Adolfo Bécquer",
+        "incorrecta2": "Rafael Alberti",
+        "incorrecta3": "Lope De Vega\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién fue uno de los escritores más destacados de la época del romanticismo?",
+        "respuesta": "Adolfo Bécquer",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Le Vaire",
+        "incorrecta3": "Samuel Beckett\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió 'El triunfo de David'?",
+        "respuesta": "Nicolás Poussin",
+        "incorrecta1": "Lothar Wolleh",
+        "incorrecta2": "August Macke",
+        "incorrecta3": "Pierre Auguste Renoir\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cuál era la nacionalidad de Heri Cartier-Bresson, considerado por muchos el padre del foto reportaje? ",
+        "respuesta": "Francesa",
+        "incorrecta1": "Británica",
+        "incorrecta2": "Española",
+        "incorrecta3": "Alemana\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Qué ciudades describe Ítalo Calvino en \"Las ciudades invisibles\"?",
+        "respuesta": "Ciudades Imaginadas Por Marco Polo",
+        "incorrecta1": "Ciudades Asiáticas",
+        "incorrecta2": "Las Que Marco Polo Visitó En Sus Viajes",
+        "incorrecta3": "Ciudades Europeas\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " ¿Qué era Le Chat Noir, el establecimiento que anunciaban los carteles el famoso gato negro de París?",
+        "respuesta": "Un Cabaret",
+        "incorrecta1": "Un Cine",
+        "incorrecta2": "Una Biblioteca",
+        "incorrecta3": "Un Restaurante\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "De las siguientes obras pictóricas, ¿cuál NO fue pintada por Leonardo da Vinci?",
+        "respuesta": "La Cúpula De La Capilla Sixtina",
+        "incorrecta1": "La Última Cena",
+        "incorrecta2": "La Gioconda O Mona Lisa",
+        "incorrecta3": "La Virgen De Las Rocas\r",
+        "imagen": "https://i.ibb.co/HqKvqmj/leonardo-da-vinci-fue-homosexual-segun-freud.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Pablo Picasso",
+        "incorrecta1": "Charles Baudelaire",
+        "incorrecta2": "Arthur Rimbaud",
+        "incorrecta3": "Paul Verlaine\r",
+        "imagen": "https://i.ibb.co/qm9T23F/picasso.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Vincent Van Gogh",
+        "incorrecta1": "Paul Verlaine",
+        "incorrecta2": "Gillaume Apollinaire",
+        "incorrecta3": "Arthur Rimbaud\r",
+        "imagen": "https://i.ibb.co/fv03bTq/van.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Salvador Dalí",
+        "incorrecta1": "Charles Baudelaire",
+        "incorrecta2": "Arthur Rimbaud",
+        "incorrecta3": "Paul Verlaine\r",
+        "imagen": "https://i.ibb.co/HNWSTMT/dali.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Leonardo Da Vinci",
+        "incorrecta1": "Paul Verlaine",
+        "incorrecta2": "Gillaume Apollinaire",
+        "incorrecta3": "Arthur Rimbaud\r",
+        "imagen": "https://i.ibb.co/HqKvqmj/leonardo-da-vinci-fue-homosexual-segun-freud.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Andy Warhol",
+        "incorrecta1": "Rafael",
+        "incorrecta2": "Edvard Munch",
+        "incorrecta3": "Steve Jobs",
+        "imagen": "https://i.ibb.co/P18PR5t/warhol-2.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cómo se llama?",
+        "respuesta": "Metamorphosis Of Narcissus",
+        "incorrecta1": "Honey Is Sweeter Than Blood",
+        "incorrecta2": "The Persistence Of Memory",
+        "incorrecta3": "Crepuscular Old Man\r",
+        "imagen": "https://i.ibb.co/WgskC6R/ce9c5b9ce7e825f69580e212e989adb0.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién lo pintó?",
+        "respuesta": "Salvador Dalí ",
+        "incorrecta1": "Charles Baudelaire",
+        "incorrecta2": "Arthur Rimbaud",
+        "incorrecta3": "Paul Verlaine\r",
+        "imagen": "https://i.ibb.co/gzJgK0C/1585067106-344791-1585067381-rrss-normal.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién lo pintó?",
+        "respuesta": "Salvador Dalí ",
+        "incorrecta1": "Charles Baudelaire",
+        "incorrecta2": "Arthur Rimbaud",
+        "incorrecta3": "Paul Verlaine\r",
+        "imagen": "https://i.ibb.co/19bNpLc/56e084a81bf3b56b4eb49572704d5425.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién lo pintó?",
+        "respuesta": "Frida Kahlo",
+        "incorrecta1": "Tomasso Masaccio",
+        "incorrecta2": "Tiziano",
+        "incorrecta3": "Gustave Courbet\r",
+        "imagen": "https://i.ibb.co/tQrGc4b/heraldofrida1.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Gabriel García Márquez",
+        "incorrecta1": "Candelario Obeso",
+        "incorrecta2": "Rafael Pombo",
+        "incorrecta3": "Jorge Isaacs\r",
+        "imagen": "https://i.ibb.co/B2RSPGj/garcia-marquez-1-e1577755902830.jpg"
+    }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "categoria": "Música",
+    "pregunta": "¿Cuál es el término musical que se refiere a la intensidad o fuerza con la que se toca o se canta una nota o una melodía?",
+    "respuesta": "Volumen",
+    "incorrecta1": "Armonía",
+    "incorrecta2": "Melodía",
+    "incorrecta3": "Timbre"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Cuál es el nombre completo de Frank Sinatra?",
+    "respuesta": "Francis Albert Sinatra",
+    "incorrecta1": "Francis Sinter",
+    "incorrecta2": "Frank Robert Sinatra",
+    "incorrecta3": "Francis Brown Sinatra"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Quien es Chris Martin?",
+    "respuesta": "Cantante de Coldplay",
+    "incorrecta1": "Cantante de Keane",
+    "incorrecta2": "Representante de Evanescense",
+    "incorrecta3": "El baterista de keane"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Quien es Tom Chaplin?",
+    "respuesta": "Cantante de Keane",
+    "incorrecta1": "Hijo musico de Chaplin",
+    "incorrecta2": "Guitarrista de Harry Styles",
+    "incorrecta3": "Lider de The boss"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Quien es el director de orquesta?",
+    "respuesta": "El encargado de los instrumentos de la orquesta",
+    "incorrecta1": "El que guia la orquesta",
+    "incorrecta2": "El que interpreta todos los instrumentos",
+    "incorrecta3": "El que lleva las partituras"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Que es una partitura?",
+    "respuesta": "Una forma de representar las anotaciones musicales",
+    "incorrecta1": "Un papel utilizado para secar los instrumentos",
+    "incorrecta2": "Reparticion de los integrantes de la orquesta ",
+    "incorrecta3": "Todas correctas"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "La voz es un instrumento musical",
+    "respuesta": "Si",
+    "incorrecta1": "Varia segun la zona",
+    "incorrecta2": "Esta en la opinion de cada uno",
+    "incorrecta3": "No"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Qué es el baile que se originó en el barrio afroamericano de Nueva Orleans en el siglo XIX y que se caracteriza por tener una línea melódica y una estructura rítmica compleja?",
+    "respuesta": "El jazz",
+    "incorrecta1": "El cha-cha-chá",
+    "incorrecta2": "El salsa",
+    "incorrecta3": "El hip hop"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Cuál es el término musical que se refiere al cambio de una nota a otra de menor duración?",
+    "respuesta": "Legato",
+    "incorrecta1": "Sustitución",
+    "incorrecta2": "Repetición",
+    "incorrecta3": "Afinación"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Qué tipo de música es la que se caracteriza por tener una estructura y una forma más libre y por utilizar técnicas de improvisación y fusión de diferentes géneros?",
+    "respuesta": "El jazz",
+    "incorrecta1": "La música clásica",
+    "incorrecta2": "La música folklórica",
+    "incorrecta3": "El rock"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Quién es el autor de la canción 'Bohemian Rhapsody'?",
+    "respuesta": "Freddie Mercury",
+    "incorrecta1": "Elvis Presley",
+    "incorrecta2": "John Lennon",
+    "incorrecta3": "Michael Jackson"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Cuál es el estilo musical más antiguo conocido por el hombre?",
+    "respuesta": "La música folklórica",
+    "incorrecta1": "El jazz",
+    "incorrecta2": "La música clásica",
+    "incorrecta3": "El rock"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Cuál es el término musical que se refiere al número de veces que se repite una melodía o una línea melódica?",
+    "respuesta": "Repetición",
+    "incorrecta1": "Ritmo",
+    "incorrecta2": "Armadura",
+    "incorrecta3": "Afinación"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Cuál de estos instrumentos no pertenece a la familia de viento-madera?",
+    "respuesta": "Trombón",
+    "incorrecta1": "Clarinete",
+    "incorrecta2": "Flauta",
+    "incorrecta3": "Saxofón"
+  },
+  {
+    "categoria": "Música",
+    "pregunta": "¿Cuál es la técnica musical que consiste en cantar o tocar música sin acompañamiento?",
+    "respuesta": "A capella",
+    "incorrecta1": "Ensamble",
+    "incorrecta2": "Orquestación",
+    "incorrecta3": "Improvisación"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "¿Qué enfermedad padece la cantante Thalia?",
+    "respuesta": "Lyme",
+    "incorrecta1": "Hipertiroidismo",
+    "incorrecta2": "Hipertensión",
+    "incorrecta3": "Colesterol\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "¿Qué es la Musicologia?",
+    "respuesta": "Una ciencia",
+    "incorrecta1": "Un libro",
+    "incorrecta2": "Un instrumento",
+    "incorrecta3": "Un dicho popular\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "La musica calma .....",
+    "respuesta": "Las bestias",
+    "incorrecta1": "Los vientos",
+    "incorrecta2": "La marea",
+    "incorrecta3": "Las horas\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "Suelo detenerme en algun espejo.....",
+    "respuesta": "Por que en el reflejo siempre estas ahi",
+    "incorrecta1": "Por que quiero ver la facha",
+    "incorrecta2": "Por que es mi fiel reflejo",
+    "incorrecta3": "Para recordar tus ojos\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "¿Cuál es la nacionalidad de Beto Cuevas, cantante de la ley?",
+    "respuesta": "Chileno",
+    "incorrecta1": "Argentino",
+    "incorrecta2": "Boliviano",
+    "incorrecta3": "Uruguay\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "¿Cual de estos es un album musical de The Beattles?",
+    "respuesta": "Help",
+    "incorrecta1": "Yellow Beattles",
+    "incorrecta2": "Green Sun",
+    "incorrecta3": "Ultimate song\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "Muerte de Mozart",
+    "respuesta": "1791",
+    "incorrecta1": "1799",
+    "incorrecta2": "1789",
+    "incorrecta3": "1785\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "El ultimo acto conciente de Mozart fue tararear una parte de su Requiem, concretamente la parte de…",
+    "respuesta": "Los Timbales",
+    "incorrecta1": "Los Violines",
+    "incorrecta2": "El Coro",
+    "incorrecta3": "Las Trompetas\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "Mozart murio a los…",
+    "respuesta": "35 años",
+    "incorrecta1": "26 años",
+    "incorrecta2": "29 años",
+    "incorrecta3": "42 años\r"
+  },
+  {
+    "categoria": "Musica",
+    "pregunta": "¿Cual de estos es un instrumento de cuerdas?",
+    "respuesta": "Todas Correctas",
+    "incorrecta1": "La Guitarra",
+    "incorrecta2": "El Arpa",
+    "incorrecta3": "El violin\r"
+  }
+]

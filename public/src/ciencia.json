@@ -1,0 +1,781 @@
+[
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál de los siguientes NO forma parte de un ordenador personal?",
+        "respuesta": "Microondas ",
+        "incorrecta1": "Teclado ",
+        "incorrecta2": "Ratón ",
+        "incorrecta3": "Monitor \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos grados Kelvin son 0 grados Celsius?",
+        "respuesta": "273,15",
+        "incorrecta1": "283,15",
+        "incorrecta2": "100",
+        "incorrecta3": "10\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Quién es considerado el padre de la genética?",
+        "respuesta": "Gregor Mendel",
+        "incorrecta1": "Aristóteles ",
+        "incorrecta2": "Hugo De Vries",
+        "incorrecta3": "Eric Von Tschermak\r",
+        "imagen": "https://i.ibb.co/vPQVWsY/file-20181228-47307-x6yvhn.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál de estas fases NO es una de las fases de la división celular?",
+        "respuesta": "Rinofase",
+        "incorrecta1": "Profase ",
+        "incorrecta2": "Metafase ",
+        "incorrecta3": "Anafase \r",
+        "imagen": "https://i.ibb.co/jghbJgF/celula-e1523472422656.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En cuántos lóbulos se divide el pulmón derecho?",
+        "respuesta": "Tres ",
+        "incorrecta1": "Cuatro ",
+        "incorrecta2": "Dos ",
+        "incorrecta3": "Ninguno \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué son los pugs?",
+        "respuesta": "Una Raza De Perro",
+        "incorrecta1": "Una Comida ",
+        "incorrecta2": "Un Lugar ",
+        "incorrecta3": "Una Tradición Regional \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama el registro gráfico de la activa eléctrica del cerebro?",
+        "respuesta": "Electroencefalograma",
+        "incorrecta1": "Electrocardiograma",
+        "incorrecta2": "Electrocerebrograma",
+        "incorrecta3": "Electroconductancia\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es la levadura?",
+        "respuesta": "Un Hongo",
+        "incorrecta1": "Una Planta",
+        "incorrecta2": "Un Animal ",
+        "incorrecta3": "Una Raíz\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿El pulso de qué arteria se usa para comprobar la muerte de una persona?",
+        "respuesta": "Carótida",
+        "incorrecta1": "Femoral ",
+        "incorrecta2": "Vertebral",
+        "incorrecta3": "Radial\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama la enfermedad por la que una persona cree infundadamente que padece alguna enfermedad grave?",
+        "respuesta": "Hipocondría",
+        "incorrecta1": "Aburrimiento",
+        "incorrecta2": "Melancolía",
+        "incorrecta3": "Neurastenia\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuánto es la raíz cuadrada del 121?",
+        "respuesta": "11",
+        "incorrecta1": "13",
+        "incorrecta2": "10",
+        "incorrecta3": "21\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuántas Leyes de Mendel hay?",
+        "respuesta": "3",
+        "incorrecta1": "2",
+        "incorrecta2": "4",
+        "incorrecta3": "No Hay Leyes De Mendel\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué parte del cuerpo humano puede tener un soplo?",
+        "respuesta": "Corazón",
+        "incorrecta1": "Pulmón ",
+        "incorrecta2": "Oído ",
+        "incorrecta3": "Colon\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se llama la arteria principal del cuerpo humano?",
+        "respuesta": "Aorta",
+        "incorrecta1": "Carótida",
+        "incorrecta2": "Yugular",
+        "incorrecta3": "Subclavia\r",
+        "imagen": "https://i.ibb.co/31Fhj8j/000.jpg" 
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Quién fue el Inventor de la dinamita?",
+        "respuesta": "Alfred Nobel",
+        "incorrecta1": "Heisenberg",
+        "incorrecta2": "Antony Stark",
+        "incorrecta3": "Walter White\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Con qué nombre se conoce la energía producida por las partículas en movimiento?",
+        "respuesta": "Energía Cinética",
+        "incorrecta1": "Energía Solar ",
+        "incorrecta2": "Energía Potencial",
+        "incorrecta3": "Energía Eólica\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo llamamos a una lesión térmica o química de los tejidos?",
+        "respuesta": "Quemadura",
+        "incorrecta1": "Inflamación",
+        "incorrecta2": "Úlcera",
+        "incorrecta3": "Hernia\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es la distribución de Linux más usada?",
+        "respuesta": "Ubuntu",
+        "incorrecta1": "Debian",
+        "incorrecta2": "Fedora",
+        "incorrecta3": "Mint\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué droga de las denominadas 'blandas' es útil en el tratamiento del dolor?",
+        "respuesta": "Marihuana",
+        "incorrecta1": "Anfetamina",
+        "incorrecta2": "Cafeína ",
+        "incorrecta3": "Cocaína\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo llamamos a la inflamación de la piel?",
+        "respuesta": "Dermatitis ",
+        "incorrecta1": "Urticaria",
+        "incorrecta2": "Psoriasis",
+        "incorrecta3": "Acné\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo llaman los dentistas a 'matar un nervio'?",
+        "respuesta": "Endodoncia",
+        "incorrecta1": "Extracción ",
+        "incorrecta2": "Ortodoncia",
+        "incorrecta3": "Proxilaxis Bucal\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se llaman las pinzas especiales que se usan en obstetricia para sujetar la cabeza del bebé y hacer tracción sobre ella en los partos difíciles?",
+        "respuesta": "Forceps",
+        "incorrecta1": "Ventosa ",
+        "incorrecta2": "Goniómetro",
+        "incorrecta3": "Espéculo\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál de estos NO es un musculo del cuerpo?",
+        "respuesta": "Cruzado",
+        "incorrecta1": "Gemelos ",
+        "incorrecta2": "Espinal",
+        "incorrecta3": "Sartorio\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿A qué tienes miedo si sufres de aracnofobia?",
+        "respuesta": "Arañas",
+        "incorrecta1": "Elefantes ",
+        "incorrecta2": "Hormigas",
+        "incorrecta3": "Mirlos \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuáles de los siguientes no es un grupo sanguíneo?",
+        "respuesta": "OO",
+        "incorrecta1": "B",
+        "incorrecta2": "AB",
+        "incorrecta3": "O\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué significan las siglas USB?",
+        "respuesta": "Universal Serial Bus",
+        "incorrecta1": "Uniform Serial Bus",
+        "incorrecta2": "Universal Serial Button",
+        "incorrecta3": "Uniform Sonic Boom\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es lo que más lugar ocupa en el cerebro humano?",
+        "respuesta": "Hemisferios Cerebrales ",
+        "incorrecta1": "Hipocampo",
+        "incorrecta2": "Cuerpo Amigdalino",
+        "incorrecta3": "Cerebelo \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es el símbolo químico del fósforo?",
+        "respuesta": "P",
+        "incorrecta1": "F",
+        "incorrecta2": "Fo",
+        "incorrecta3": "Ps\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿De dónde forman parte los axones?",
+        "respuesta": "Neurona",
+        "incorrecta1": "Tendón ",
+        "incorrecta2": "Huesos ",
+        "incorrecta3": "Corteza Cerebral\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Quién fundaron la marca Apple?",
+        "respuesta": "S. Jobs Y S. Wozniak",
+        "incorrecta1": "S. Jobs Y B. Gates ",
+        "incorrecta2": "S. Jobs Y T. Cook",
+        "incorrecta3": "S. Jobs Y J. Ive\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Dónde tienen las papilas gustativas las moscas?",
+        "respuesta": "En Las Patas ",
+        "incorrecta1": "No Tienen ",
+        "incorrecta2": "En La Trompa",
+        "incorrecta3": "En Las Alas\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Dónde se encuentran las medusas con veneno mortal?",
+        "respuesta": "Australia",
+        "incorrecta1": "Sudáfrica",
+        "incorrecta2": "Japón",
+        "incorrecta3": "Tailandia\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es el caracol?",
+        "respuesta": "Molusco",
+        "incorrecta1": "Crustáceo",
+        "incorrecta2": "Babosa",
+        "incorrecta3": "Reptil\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué enfermedad se caracteriza por repentinos ataques de sueño?",
+        "respuesta": "Narcolepsia",
+        "incorrecta1": "Somnolencia ",
+        "incorrecta2": "Insomnio",
+        "incorrecta3": "Hipersomnia\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál de las siguientes enfermedades es muy común en los mayores por la disminución de la densidad de los huesos?",
+        "respuesta": "Osteoporosis ",
+        "incorrecta1": "Esclerosis",
+        "incorrecta2": "Artrosis",
+        "incorrecta3": "Bursitis\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué tiene más concentración de sal?",
+        "respuesta": "La Orina ",
+        "incorrecta1": "La Sangre",
+        "incorrecta2": "El Sudo",
+        "incorrecta3": "Las Lágrimas\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Si padeces la enfermedad de Crohn o colitis ulcerosa, tienes una enfermedad...",
+        "respuesta": "Intestinal",
+        "incorrecta1": "Cerebral",
+        "incorrecta2": "Estomacal",
+        "incorrecta3": "Visual\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se llama la torcedura de una articulación en el cuerpo?",
+        "respuesta": "Esguince ",
+        "incorrecta1": "Desgarro",
+        "incorrecta2": "Rotura",
+        "incorrecta3": "Contusión\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es el colesterol?",
+        "respuesta": "Un Lípido",
+        "incorrecta1": "Una Proteína",
+        "incorrecta2": "Un Glúcido",
+        "incorrecta3": "Un Ácido Nucleico\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se denomina el juramento que realizan los médicos?",
+        "respuesta": "Hipocrático",
+        "incorrecta1": "Aristocrático",
+        "incorrecta2": "Medicinal",
+        "incorrecta3": "Doctorado\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué significan las siglas \"www\"?",
+        "respuesta": "World Wide Web",
+        "incorrecta1": "Todas Son Correctas",
+        "incorrecta2": "Wikipedia World Web",
+        "incorrecta3": "World Wild West\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es la queratina?",
+        "respuesta": "Una Proteína",
+        "incorrecta1": "Un Lípido",
+        "incorrecta2": "Un Ácido Nucleico",
+        "incorrecta3": "Veneno\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué parte del cuerpo tiene 27 huesos y 35 músculos?",
+        "respuesta": "Mano ",
+        "incorrecta1": "Pelvis",
+        "incorrecta2": "Mandíbula",
+        "incorrecta3": "Corazón\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se llaman las lesiones en la pared del tubo digestivo?",
+        "respuesta": "Úlcera",
+        "incorrecta1": "Quebradura",
+        "incorrecta2": "Ruptura",
+        "incorrecta3": "Hernia\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es la sustancia deficiente en los diabéticos?",
+        "respuesta": "Insulina",
+        "incorrecta1": "Glucagón",
+        "incorrecta2": "Incretina",
+        "incorrecta3": "Bilirrunina\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué componente de ADN se uno en su estructura con la guanina?",
+        "respuesta": "Citosina",
+        "incorrecta1": "Timina",
+        "incorrecta2": "Adenina",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué nombre recibe el defecto visual que consiste en que el eje de los ojos no está centrado?",
+        "respuesta": "Estrabismo",
+        "incorrecta1": "Miopía",
+        "incorrecta2": "Astigmatismo",
+        "incorrecta3": "Hipermetropía\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se llama la amnesia caracterizada por una incapacidad para recordar los eventos ocurridos después de haber sufrido una lesión cerebral?",
+        "respuesta": "Amnesia Anterógrada",
+        "incorrecta1": "Amnesia Lacunar",
+        "incorrecta2": "Amnesia Retrógrada",
+        "incorrecta3": "Amnesia De Fuente\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué sonido hacen las gallinas?",
+        "respuesta": "Cararean",
+        "incorrecta1": "Mugen",
+        "incorrecta2": "Relinchan",
+        "incorrecta3": "Maullan\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es la celiaquía?",
+        "respuesta": "Intolerancia El Gluten",
+        "incorrecta1": "Alergia Al Polvo",
+        "incorrecta2": "Hambre Insaciable",
+        "incorrecta3": "Embriaguez\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Si te hacen una angiografía, ¿qué están fotografiando?",
+        "respuesta": "Los Vasos Sanguíneos",
+        "incorrecta1": "Los Músculos Coronarios",
+        "incorrecta2": "Las Neuronas",
+        "incorrecta3": "Los Ojos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es la estrella de mar?",
+        "respuesta": "Equinodermo",
+        "incorrecta1": "Cordado",
+        "incorrecta2": "Lepidóptero",
+        "incorrecta3": "Anélido\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Los glóbulos rojos también se llaman...",
+        "respuesta": "Eritrocitos",
+        "incorrecta1": "Rojos",
+        "incorrecta2": "Plaquetas",
+        "incorrecta3": "Newtons\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿A qué parte del cuerpo afecta la enfermedad de Crohn?",
+        "respuesta": "Intestino",
+        "incorrecta1": "Corazón",
+        "incorrecta2": "Pulmón",
+        "incorrecta3": "Ojo\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué ciencia se ocupa del clima?",
+        "respuesta": "Meteorología",
+        "incorrecta1": "Antropología",
+        "incorrecta2": "Física",
+        "incorrecta3": "Geología\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál de estos animales es endémico de Colombia?",
+        "respuesta": "Titi Gris",
+        "incorrecta1": "La Nutria",
+        "incorrecta2": "Flamingo",
+        "incorrecta3": "Ocelote Amarillo\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿De qué país proviene del pez dorado?",
+        "respuesta": "China",
+        "incorrecta1": "Japón",
+        "incorrecta2": "Pakistán",
+        "incorrecta3": "Sri Lanka\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo conocemos comúnmente al compuesto químico H2O2?",
+        "respuesta": "Agua Oxigenada",
+        "incorrecta1": "Agua Fuerte",
+        "incorrecta2": "Agua Pesada",
+        "incorrecta3": "Aguarrás\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es el esternocleidomastoideo?",
+        "respuesta": "Un Músculo",
+        "incorrecta1": "Un Tendón",
+        "incorrecta2": "Un Ligamento",
+        "incorrecta3": "Un Hueso\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál de las siguientes actitudes en un gato demuestran su tranquilidad?",
+        "respuesta": "Ninguna Es Correcta",
+        "incorrecta1": "Parpadeo Constante",
+        "incorrecta2": "Azotar Su Cola",
+        "incorrecta3": "Maullido\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es la fórmula del dióxido de carbono?",
+        "respuesta": "CO2",
+        "incorrecta1": "H2O",
+        "incorrecta2": "CO",
+        "incorrecta3": "HCO\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se conoce comúnmente la planta \"Datura stramonium\"?",
+        "respuesta": "Todas Son Correctas",
+        "incorrecta1": "Antimonio",
+        "incorrecta2": "Estramonia",
+        "incorrecta3": "Higuera Del Infierno\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué animal puede correr sobre el agua?",
+        "respuesta": "Lagarto Basilisco",
+        "incorrecta1": "Lagartija",
+        "incorrecta2": "El Pato",
+        "incorrecta3": "Ninguno\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Quién formuló la teoría de la relatividad general?",
+        "respuesta": "Albert Einstein",
+        "incorrecta1": "Isaac Newton",
+        "incorrecta2": "Erwin Schrodinger",
+        "incorrecta3": "Stephen Hawking\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿De qué metal suele ser la bola de los bolígrafos?",
+        "respuesta": "Tungsteno",
+        "incorrecta1": "Hierro",
+        "incorrecta2": "Uranio",
+        "incorrecta3": "Berilio\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿A qué parte del corazón le afectan más los infartos?",
+        "respuesta": "Miocardio",
+        "incorrecta1": "Endocardio",
+        "incorrecta2": "Pericardio",
+        "incorrecta3": "Endotelio\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es la cotangente de un ángulo (cotg(X))?",
+        "respuesta": "Cos(X)/Sen(X)",
+        "incorrecta1": "Sen(X)/Cos(X)",
+        "incorrecta2": "Sen/(X)",
+        "incorrecta3": "Cos/(X)\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cómo se llama la técnica de cultivo de especies acuáticas vegetales y animales?",
+        "respuesta": "Acuicultura",
+        "incorrecta1": "Apicultura",
+        "incorrecta2": "Aguacultura",
+        "incorrecta3": "Hidrocultura\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué animal siempre cae de pie?",
+        "respuesta": "Gato ",
+        "incorrecta1": "Perro",
+        "incorrecta2": "Gallina",
+        "incorrecta3": "Ratón\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué son las pupilas?",
+        "respuesta": "Estructura Del Ojo",
+        "incorrecta1": "Pilas Eléctricas",
+        "incorrecta2": "Pus,Líquido Espeso",
+        "incorrecta3": "Heces\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué hormona representa la abreviatura T4?",
+        "respuesta": "Tiroxina",
+        "incorrecta1": "Tiroglobulina",
+        "incorrecta2": "Tirosina",
+        "incorrecta3": "Tetrayoduro\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es el símbolo químico del hierro?",
+        "respuesta": "Fe",
+        "incorrecta1": "Hi",
+        "incorrecta2": "Fi",
+        "incorrecta3": "Hu\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Hasta cuántos colores puede tener un perro collie naturalmente?",
+        "respuesta": "Tres",
+        "incorrecta1": "Cinco",
+        "incorrecta2": "Uno ",
+        "incorrecta3": "Ocho\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Calcula: 20 + 100 + 420",
+        "respuesta": "540",
+        "incorrecta1": "402",
+        "incorrecta2": "430",
+        "incorrecta3": "420\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué codificación utiliza solamente 0 y 1?",
+        "respuesta": "Binario",
+        "incorrecta1": "Decimal",
+        "incorrecta2": "Octal",
+        "incorrecta3": "Hexadecimal\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Dónde tienen el sentido del gusto las moscas?",
+        "respuesta": "En Las Patas ",
+        "incorrecta1": "En Las Papilas Gustativas",
+        "incorrecta2": "En Las Antenas",
+        "incorrecta3": "No Tienen\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es la hormona que les cambia el tono de voz a los hombres?",
+        "respuesta": "Testosterona",
+        "incorrecta1": "Progesterona",
+        "incorrecta2": "Inhibina",
+        "incorrecta3": "Melatonina\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál de los siguientes es un gas noble?",
+        "respuesta": "Neón",
+        "incorrecta1": "Potasio",
+        "incorrecta2": "Carbono",
+        "incorrecta3": "Cesio\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es la eremofobia?",
+        "respuesta": "Ninguna Es Correcta",
+        "incorrecta1": "Miedo Al Agua",
+        "incorrecta2": "Miedo A La Sangre",
+        "incorrecta3": "Miedo A Las Alturas\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es el símbolo del potasio?",
+        "respuesta": "K",
+        "incorrecta1": "P",
+        "incorrecta2": "Pa ",
+        "incorrecta3": "Na\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué vitamina ayuda a la fijación de calcio en los huesos?",
+        "respuesta": "Vitamina D",
+        "incorrecta1": "Vitamina A",
+        "incorrecta2": "Riboflavina",
+        "incorrecta3": "Piridoxina\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Por qué vía parenteral se obtiene una biodisponibilidad del 100 por cien del fármaco?",
+        "respuesta": "Intravenosa",
+        "incorrecta1": "Intramuscular",
+        "incorrecta2": "Intracerebral",
+        "incorrecta3": "Intraarterial\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Son lo mismo 20 grados Fahrenheit que 20 grados Celsius?",
+        "respuesta": "No ",
+        "incorrecta1": "A Veces",
+        "incorrecta2": "Depende ",
+        "incorrecta3": "Si \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el símbolo químico de la plata?",
+        "respuesta": "Ag",
+        "incorrecta1": "Au",
+        "incorrecta2": "Cu",
+        "incorrecta3": "Pb\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué enfermedad se produce por la deficiencia en la producción de la hormona insulina por parte del páncreas?",
+        "respuesta": "Diabetes ",
+        "incorrecta1": "Hipertiroidismo",
+        "incorrecta2": "Hipertensión",
+        "incorrecta3": "Colesterol\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es la fosfatidiletanolamina?",
+        "respuesta": "Un Fosfolípido",
+        "incorrecta1": "Una Proteína",
+        "incorrecta2": "Un Glúcido",
+        "incorrecta3": "No Existe\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué dedo de la mano sólo tiene dos falanges?",
+        "respuesta": "Pulgar",
+        "incorrecta1": "Meñique ",
+        "incorrecta2": "Índice",
+        "incorrecta3": "Anular\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Descubrimiento de Einstein",
+        "respuesta": "El movimiento Browniano",
+        "incorrecta1": "El teletransporte cuántico espectral",
+        "incorrecta2": "La energia libre",
+        "incorrecta3": "La union covalente de los atomos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es la combinación de las teclas que pega texto en un PC?",
+        "respuesta": "Ctrl + V",
+        "incorrecta1": "Ctrl + P",
+        "incorrecta2": "Ctrl + Q",
+        "incorrecta3": "Ctrl + Z\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es la combinación de las teclas que corta texto en un PC?",
+        "respuesta": "Ctrl + X",
+        "incorrecta1": "Ctrl + P",
+        "incorrecta2": "Ctrl + Q",
+        "incorrecta3": "Ctrl + V\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Muerte de Mozart",
+        "respuesta": "1791",
+        "incorrecta1": "1799",
+        "incorrecta2": "1789",
+        "incorrecta3": "1785\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "El ultimo acto conciente de Mozart fue tararear una parte de su Requiem, concretamente la parte de…",
+        "respuesta": "Los Timbales",
+        "incorrecta1": "Los Violines",
+        "incorrecta2": "El Coro",
+        "incorrecta3": "Las Trompetas\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Mozart murio a los…",
+        "respuesta": "35 años",
+        "incorrecta1": "26 años",
+        "incorrecta2": "29 años",
+        "incorrecta3": "42 años\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Nicolaus Closset, un personaje importante en el ultimo año de vida de Mozart ¿Qué era?",
+        "respuesta": "Su medico personal",
+        "incorrecta1": "Su enterrador",
+        "incorrecta2": "Un Yerbatero",
+        "incorrecta3": "El Lider de su Logía Masonica\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Pensamiento paranoico que tenia mozart los ultimos dias de su vida",
+        "respuesta": "Que había sido envenenado",
+        "incorrecta1": "Que su logia masonica queria sacrificarlo",
+        "incorrecta2": "Que su mujer queria matarle",
+        "incorrecta3": "Que el demonio le habia encargado una obra\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "La precaria situacion de Mozart obligo a su esposa hacer un funeral de muy baja categoria. Solo se permitio el lujo de contratar por tres florines…",
+        "respuesta": "Un coche funebre",
+        "incorrecta1": "Un cuarteto de cuerda",
+        "incorrecta2": "Una corona de espinas",
+        "incorrecta3": "Un nicho individual\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Obra que dejo inconclusa Mozart cuando la muerte le llego una madrugada",
+        "respuesta": "Requiem",
+        "incorrecta1": "Concierto para clarinete",
+        "incorrecta2": "Sinfonia 42",
+        "incorrecta3": "La clemencia de Tito\r"
+    }
+]

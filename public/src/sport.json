@@ -1,0 +1,1178 @@
+[
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué deporte es el kemari uno de los principales antecesores?",
+        "respuesta": "Fútbol",
+        "incorrecta1": "Tenis",
+        "incorrecta2": "Rugby",
+        "incorrecta3": "Karate\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el clásico rival del Flamengo (BRA)?",
+        "respuesta": "Corinthians",
+        "incorrecta1": "Palmeiras",
+        "incorrecta2": "Cruzeiro",
+        "incorrecta3": "São Paulo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugadora de hockey sobre césped ha ganado 7 veces el premio a la mejor jugadora del mundo de 2013?",
+        "respuesta": "Luciana Aymar",
+        "incorrecta1": "Natascha Keller",
+        "incorrecta2": "Alyson Annan",
+        "incorrecta3": "Maartje Paumen\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién marcó el gol 3.500 en Liga del Atlético de Madrid?",
+        "respuesta": "Christian Vieri",
+        "incorrecta1": "Zinedine Zidane",
+        "incorrecta2": "Luka Modric",
+        "incorrecta3": "Adrián Escudero\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos mangos por lado tiene el futbolín?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Cinco\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "respuesta": "Crol",
+        "incorrecta1": "Espalda",
+        "incorrecta2": "Mariposa",
+        "incorrecta3": "Pecho\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores componen un equipo de rugby?",
+        "respuesta": "15",
+        "incorrecta1": "11",
+        "incorrecta2": "12",
+        "incorrecta3": "21\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Cuántas puntas de cada color hay en un tablero de backgammon?",
+        "respuesta": "Doce",
+        "incorrecta1": "Catorce",
+        "incorrecta2": "Ocho",
+        "incorrecta3": "Dieciséis\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿En qué país se inventó el voleibol?",
+        "respuesta": "Estados Unidos",
+        "incorrecta1": "Gran Bretaña",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Rusia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Cuál de las siguientes modalidades no forma parte del deporte rural vasco?",
+        "respuesta": "Desintegramiento De Piedra",
+        "incorrecta1": "Arrastre De Piedra",
+        "incorrecta2": "Lanzamiento De Fardo",
+        "incorrecta3": "Corte De Troncos\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Qué tienen en común Ty Cobb, Cy Young y Roberto Clemente?",
+        "respuesta": "Son Jugadores De Béisbol",
+        "incorrecta1": "Son Jugadores De Fútbol",
+        "incorrecta2": "Son Jugadores De Baloncesto",
+        "incorrecta3": "Son Jugadores De Golf\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Copa Mundial de Rugby en 2015?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "Australia",
+        "incorrecta2": "Escocia",
+        "incorrecta3": "Gales\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Qué selección acumula mayor cantidad de expulsados en  mundiales de fútbol?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Brasil",
+        "incorrecta2": "Italia",
+        "incorrecta3": "Camerún\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién inventó el arte marcial llamado Jeet Kune Do?",
+        "respuesta": "Bruce Lee",
+        "incorrecta1": "David Carradine",
+        "incorrecta2": "Kato Mimoko",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué deporte es el longboard una de las modalidades?",
+        "respuesta": "Skateboard",
+        "incorrecta1": "Snowboard",
+        "incorrecta2": "Alpinismo",
+        "incorrecta3": "Surf\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se destaca Jonny Wilkinson?",
+        "respuesta": "Rugby",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Atletismo",
+        "incorrecta3": "Remo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué color es el cero en el cilindro de la ruleta?",
+        "respuesta": "Verde",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Rojo",
+        "incorrecta3": "Blanco\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué barrio porteño pertenece el club de fútbol San Lorenzo?",
+        "respuesta": "Boedo",
+        "incorrecta1": "La Boca",
+        "incorrecta2": "Liniers",
+        "incorrecta3": "Paternal\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto pesa aproximadamente una bola de bolera?",
+        "respuesta": "Siete Kilos Y Cuarto",
+        "incorrecta1": "5 Kilos Y Cuarto",
+        "incorrecta2": "Cuatro Kilos Y Medio",
+        "incorrecta3": "Ocho Kilos Y Cuarto\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos puntos valen un tiro libre encestado en baloncesto?",
+        "respuesta": "Uno",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Depende\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el estadio de fútbol con mayor capacidad en América?",
+        "respuesta": "Estadio Azteca (México)",
+        "incorrecta1": "Estadio Maracaná (Brasil)",
+        "incorrecta2": "Estadio Monumentar (Argentina)",
+        "incorrecta3": "Estadio Morumbi (Brasil)\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué tipo de competición es el Giro de Italia?",
+        "respuesta": "Una Carrera Ciclistica",
+        "incorrecta1": "Una Competición De Vela",
+        "incorrecta2": "Un Maratón",
+        "incorrecta3": "Una Carrera Automovilística\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto dura un partido de fútbol?",
+        "respuesta": "90 Minutos",
+        "incorrecta1": "45 Minutos",
+        "incorrecta2": "75 Minutos",
+        "incorrecta3": "80 Minutos\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el derbi más esperado en Andalucía?",
+        "respuesta": "Betis Vs Sevilla",
+        "incorrecta1": "Real Madrid Vs At. Madrid",
+        "incorrecta2": "Real Madrid Vs Sevilla",
+        "incorrecta3": "Granada Vs Málaga\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama la zona de hierba rasa donde está ubicado el hoyo en golf?",
+        "respuesta": "Green",
+        "incorrecta1": "Esplanada",
+        "incorrecta2": "Campo",
+        "incorrecta3": "Terreno\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estas frases NO fue dicha por Diego Armando Maradona?",
+        "respuesta": "La Pelota No Dobla",
+        "incorrecta1": "Pelé, Debutó Con Un Pibe",
+        "incorrecta2": "Segurola Y La Habana 4310 7mo Piso",
+        "incorrecta3": "La Pelota No Se Mancha\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estos pilotos no es de F1?",
+        "respuesta": "Richard Petty",
+        "incorrecta1": "Fernando Alonso",
+        "incorrecta2": "Sebastian Vettel",
+        "incorrecta3": "Mark Webber\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué tipo de billar se juega con más bolas?",
+        "respuesta": "Snooker",
+        "incorrecta1": "Bola 9",
+        "incorrecta2": "Billar Español",
+        "incorrecta3": "Billar Italiano\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué nacionalidad es el entrenador de fútbol Tata Martino?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Italia",
+        "incorrecta2": "España",
+        "incorrecta3": "Brasil\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En cuál de estos deportes no hay árbitro?",
+        "respuesta": "Ultímate",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Basquetbol",
+        "incorrecta3": "Voleibol\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el país de origen del futbolista Lionel Messi?",
+        "respuesta": "Argentina",
+        "incorrecta1": "España",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Chile\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama la cantera del FC Barcelona?",
+        "respuesta": "La Masía",
+        "incorrecta1": "El Chalet",
+        "incorrecta2": "La Fábrica",
+        "incorrecta3": "La Depuradora\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de los siguientes es un truco de skate?",
+        "respuesta": "Ollie",
+        "incorrecta1": "Mollie",
+        "incorrecta2": "Clop",
+        "incorrecta3": "Superclop\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Cuándo el árbitro de fútbol hace sonar su silbato a los 90 minutos ¿Qué significa?",
+        "respuesta": "Finalización Del Partido",
+        "incorrecta1": "Medio Tiempo",
+        "incorrecta2": "Falta",
+        "incorrecta3": "Tarjeta\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó el mundial de fútbol del año 2002?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Italia",
+        "incorrecta2": "España",
+        "incorrecta3": "Francia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A la selección de rugby de qué país se los conoce como Los Pumas?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Sudáfrica",
+        "incorrecta2": "Australia",
+        "incorrecta3": "Gales\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el estadio del Universidad de Las Palmas?",
+        "respuesta": "Maspalomas",
+        "incorrecta1": "Los Pajaricos",
+        "incorrecta2": "Pedro Escartín",
+        "incorrecta3": "Monumental\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En cuál de estas situaciones se sacará una bandera amarilla, o incluso roja, en las carreras de coches?",
+        "respuesta": "Un Peligro En La Pista",
+        "incorrecta1": "Se Ha Declarado Un Ganador",
+        "incorrecta2": "Queda Una Vuelta",
+        "incorrecta3": "La Carrera Va A Empezar\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país ganó el Mundial de balonmano en el año 2013?",
+        "respuesta": "España",
+        "incorrecta1": "Croacia",
+        "incorrecta2": "Serbia",
+        "incorrecta3": "Francia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En cuántos mundiales de fútbol participó la selección de Canadá?",
+        "respuesta": "1",
+        "incorrecta1": "0",
+        "incorrecta2": "3",
+        "incorrecta3": "5\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Dónde se inventó el tenis de mesa?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "China",
+        "incorrecta2": "Japón",
+        "incorrecta3": "Korea Del Sur\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugador francés ha ganado un balón de oro mientras jugaba en Italia?",
+        "respuesta": "Zidane",
+        "incorrecta1": "Platini",
+        "incorrecta2": "Ribery",
+        "incorrecta3": "Maradona\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país es campeón del mundo de balonmano masculino del 2013?",
+        "respuesta": "España",
+        "incorrecta1": "Hungría",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Francia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el primer sueco que jugó en el FC Barcelona?",
+        "respuesta": "Henrik Larsson",
+        "incorrecta1": "Zlatan Ibrahimovic",
+        "incorrecta2": "Zlatan Larsson",
+        "incorrecta3": "Henrik Ibrahimovic\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De dónde viene el jugador Alexis Sánchez?",
+        "respuesta": "Chile",
+        "incorrecta1": "India",
+        "incorrecta2": "España",
+        "incorrecta3": "Moscú\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Con qué sobrenombre apodó el Presidente de la FIFA a Cristiano Ronaldo?",
+        "respuesta": "El Comandante",
+        "incorrecta1": "El Coloso",
+        "incorrecta2": "El Chulito",
+        "incorrecta3": "O Reí\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién quedó número 1 del mundo de tenis en 2008?",
+        "respuesta": "Rafael Nadal",
+        "incorrecta1": "Roger Federer",
+        "incorrecta2": "Novak Djokovic",
+        "incorrecta3": "Carlos Moyá\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el estadio del FC Barcelona?",
+        "respuesta": "Camp Nou",
+        "incorrecta1": "Santiago Bernabeu",
+        "incorrecta2": "La Masia",
+        "incorrecta3": "Barcelona Camp\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién es el máximo goleador de la selección argentina de fútbol?",
+        "respuesta": "Batistuta",
+        "incorrecta1": "Maradona",
+        "incorrecta2": "Kempes",
+        "incorrecta3": "Caniggia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el club de fútbol más antiguo de España?",
+        "respuesta": "Recreativo De Huelva",
+        "incorrecta1": "Athletic Club De Bilbao",
+        "incorrecta2": "F.C. Barcelona",
+        "incorrecta3": "Real Madrid\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto dura un partido de balonmano?",
+        "respuesta": "60 Minutos",
+        "incorrecta1": "30 Minutos",
+        "incorrecta2": "45 Minutos",
+        "incorrecta3": "90 Minutos\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Si durante una mano de Póker me tocan 3 cartas del mismo valor, ¿qué jugada tengo?",
+        "respuesta": "Trio",
+        "incorrecta1": "Doble Par",
+        "incorrecta2": "Full",
+        "incorrecta3": "Par\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Con qué apodo fue conocido el velocista Carl Lewis?",
+        "respuesta": "El Hijo Del Viento",
+        "incorrecta1": "El Rayo",
+        "incorrecta2": "La Chispa De Birmingham",
+        "incorrecta3": "La Gacela Negra\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Dónde apoyan los jinetes sus pies?",
+        "respuesta": "Estribos",
+        "incorrecta1": "Riendas",
+        "incorrecta2": "Montura",
+        "incorrecta3": "Baste\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Con qué deporte relacionarías a Juan Antonio Flecha?",
+        "respuesta": "Ciclismo",
+        "incorrecta1": "Piragüismo",
+        "incorrecta2": "Fútbol",
+        "incorrecta3": "Atletismo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué gimnasta española ha disputado cuatro juegos Olímpicos?",
+        "respuesta": "Almudena Cid",
+        "incorrecta1": "Carolina Rodríguez",
+        "incorrecta2": "Natalia García",
+        "incorrecta3": "Julia Usón\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué equipo de fútbol es de Cataluña?",
+        "respuesta": "Todos Son Correctos",
+        "incorrecta1": "RCD Español",
+        "incorrecta2": "CE Europa",
+        "incorrecta3": "FC Barcelona\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo apodaban a Emilio Butragueño?",
+        "respuesta": "El Buitre",
+        "incorrecta1": "El Mago",
+        "incorrecta2": "El Halcón",
+        "incorrecta3": "El Picha\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte destacó Joe DiMaggio?",
+        "respuesta": "Béisbol",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Boxeo",
+        "incorrecta3": "Esquí\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó cuatro mundiales consecutivos de Fórmula 1?",
+        "respuesta": "Sebastian Vettel",
+        "incorrecta1": "Fernando Alonso",
+        "incorrecta2": "Lewis Hamilton",
+        "incorrecta3": "Kimi Raikkonen\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Presidente de la  UEFA (2014)?",
+        "respuesta": "Michel Platini",
+        "incorrecta1": "David Beckham",
+        "incorrecta2": "Alex Ferguson",
+        "incorrecta3": "Ángel María Villar\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos cuadros tiene un tablero de ajedrez?",
+        "respuesta": "64",
+        "incorrecta1": "36",
+        "incorrecta2": "54",
+        "incorrecta3": "81\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama la liga española de balonmano?",
+        "respuesta": "Asobal",
+        "incorrecta1": "Balonbal",
+        "incorrecta2": "Abobal",
+        "incorrecta3": "Liga Balonmano\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué jugador de fútbol le apodan 'El Apache'?",
+        "respuesta": "Carlos Tévez",
+        "incorrecta1": "Lionel Messi",
+        "incorrecta2": "Cristiano Ronaldo",
+        "incorrecta3": "Sergio Ramos\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país fue el ganador de baloncesto en los Juegos Olímpicos de Londres 2012?",
+        "respuesta": "Estados Unidos",
+        "incorrecta1": "Italia",
+        "incorrecta2": "España",
+        "incorrecta3": "Japón\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál fue el Mundial de fútbol que consagró a Diego Armando Maradona?",
+        "respuesta": "México'86",
+        "incorrecta1": "Argentina'76",
+        "incorrecta2": "España'82",
+        "incorrecta3": "Italia'90\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué edad ganó su primer mundial de Fórmula 1 el automovilista español Fernando Alonso?",
+        "respuesta": "21",
+        "incorrecta1": "20",
+        "incorrecta2": "38",
+        "incorrecta3": "22\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿De qué tipo eran las 3 medallas conseguidas por Usain Bolt en los Juegos Olímpicos de Londres 2012?",
+        "respuesta": "Oro ",
+        "incorrecta1": "No Consiguió Ninguna",
+        "incorrecta2": "Plata ",
+        "incorrecta3": "Bronce \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Qué numero llevó Raúl en el Real Madrid?",
+        "respuesta": "7",
+        "incorrecta1": "5",
+        "incorrecta2": "10",
+        "incorrecta3": "98\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Cuál es el segundo apellido de Gerad Piqué?",
+        "respuesta": "Bernabéu",
+        "incorrecta1": "Ninguna Es Correcta ",
+        "incorrecta2": "Vázquez ",
+        "incorrecta3": "Sibina\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Qué clase de peso en el boxeo está entre el peso gallo y el pe",
+        "respuesta": "Peso Pluma",
+        "incorrecta1": "Peso Mosca",
+        "incorrecta2": "Sobrepeso",
+        "incorrecta3": "Peso Ideal\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántas cartas tiene una baraja inglesa?",
+        "respuesta": "52",
+        "incorrecta1": "40",
+        "incorrecta2": "48 ",
+        "incorrecta3": "50\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Dónde nació el Rugby?",
+        "respuesta": "Reino Unido",
+        "incorrecta1": "Canadá ",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Australia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Quién es el máximo goleador del FC Barcelona, hasta el 2013?",
+        "respuesta": "Lionel Messi",
+        "incorrecta1": "Samuel Eto'o",
+        "incorrecta2": "César Rodríguez",
+        "incorrecta3": "Ladislao Kubala\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿En qué ciudad sudafricana ganó España su único mundial de fútbol?",
+        "respuesta": "Johannesburgo ",
+        "incorrecta1": "Pretoria ",
+        "incorrecta2": "Bloemfontein",
+        "incorrecta3": "Ciudad Del Cabo \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿En qué año se celebraron los primeros juegos olímpicos de verano, en Atenas?",
+        "respuesta": "1896",
+        "incorrecta1": "1888",
+        "incorrecta2": "1932",
+        "incorrecta3": "1904\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Cuántos títulos mundiales posee el motociclista Valentino Rossi?",
+        "respuesta": "Nueve",
+        "incorrecta1": "Siete",
+        "incorrecta2": "Dos ",
+        "incorrecta3": "Cinco \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué piloto español de Fórmula 1 tiene 2 mundiales ganados en su haber?",
+        "respuesta": "Fernando Alonso",
+        "incorrecta1": "Luis Hamilton",
+        "incorrecta2": "Pedro Martínez De La Rosa",
+        "incorrecta3": "Felipe Massa \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué ex jugador del Valencia c.f. se le conocía como \" El Matador\"?",
+        "respuesta": "Mario Alberto Kempes",
+        "incorrecta1": "Gaizka Mendieta",
+        "incorrecta2": "Claudio López ",
+        "incorrecta3": "Francisco Camarasa\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuáles son los equipos de fútbol de Sevilla?",
+        "respuesta": "R. Betis Balompié Y Sevilla F.C",
+        "incorrecta1": "Selliva F.C Y Málaga C.F",
+        "incorrecta2": "Cádiz C.F Y R. Betis Balompié ",
+        "incorrecta3": "Málaga C.F Y Cádiz C.F\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién tiró el segundo disparo más veloz del mundo?",
+        "respuesta": "Zlatan Ibrahimovic",
+        "incorrecta1": "Cristiano Ronaldo ",
+        "incorrecta2": "Miroslav Klose ",
+        "incorrecta3": "Roberto Carlos \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "En la década de los 90, la leyenda del fútbol Pelé fue ministro de deportes. ¿En qué país?",
+        "respuesta": "Brasil ",
+        "incorrecta1": "Francia ",
+        "incorrecta2": "Italia ",
+        "incorrecta3": "México \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Dónde se disputó el Mundial de Fútbol 2014?",
+        "respuesta": "Brasil ",
+        "incorrecta1": "Japón ",
+        "incorrecta2": "Chile ",
+        "incorrecta3": "Portugal \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el ex-jugador del F.C Barcelona apellidado Stoichkov?",
+        "respuesta": "Hristo ",
+        "incorrecta1": "Risto ",
+        "incorrecta2": "Cristo ",
+        "incorrecta3": "Bristo \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo apodaban a Alfredo Di Stéfano?",
+        "respuesta": "La Saeta Rubia ",
+        "incorrecta1": "La Pulga ",
+        "incorrecta2": "El Minero ",
+        "incorrecta3": "El Crack\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué arte marcial utiliza mayor porcentaje de extremidades inferiores?",
+        "respuesta": "Taekwondo ",
+        "incorrecta1": "Judo",
+        "incorrecta2": "Karate ",
+        "incorrecta3": "Boxeo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es la última cinta en las artes marciales?",
+        "respuesta": "Negra  ",
+        "incorrecta1": "Roja ",
+        "incorrecta2": "Blanca ",
+        "incorrecta3": "Café \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó dos veces tres campeonatos consecutivamente en la NBA?",
+        "respuesta": "Michael Jordán",
+        "incorrecta1": "Lebrón James",
+        "incorrecta2": "Brian Scalabrine",
+        "incorrecta3": "Bill Russel\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Porqué deporte es conocido Max Biaggi?",
+        "respuesta": "Motociclismo ",
+        "incorrecta1": "Waterpolo ",
+        "incorrecta2": "Fútbol",
+        "incorrecta3": "Automovilismo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "A pesar de ir descalzo, ¿qué evento olímpico ganó el etíope Abebe Bikila en 1960?",
+        "respuesta": "Maratón",
+        "incorrecta1": "100 M",
+        "incorrecta2": "Salto De Longitud",
+        "incorrecta3": "Campeonato Completo De Gimnasia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país eligió como mascota a un leopardo llamado Zakumi cuando fue sede de la Copa del Mundo en 2010?",
+        "respuesta": "Sudáfrica",
+        "incorrecta1": "Nigeria ",
+        "incorrecta2": "Costa De Marfil",
+        "incorrecta3": "Kenia \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién fue el primer jugador español de baloncesto que disputó un partido en la NBA?",
+        "respuesta": "Fernando Martín  ",
+        "incorrecta1": "Ricky Rubio ",
+        "incorrecta2": "Pau Gasol",
+        "incorrecta3": "Juan Carlos Navarro\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estos continentes acogió los Juegos Olímpicos de Verano al menos una vez en el siglo XX?",
+        "respuesta": "Asia ",
+        "incorrecta1": "Sudamérica",
+        "incorrecta2": "África",
+        "incorrecta3": "Antártica\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál fue el subcampeón del mundial Corea-Japón 2002?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Inglaterra",
+        "incorrecta2": "España",
+        "incorrecta3": "Brasil\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué le arrojaba antiguamente un caballero a otro para desafiarlo en duelo?",
+        "respuesta": "Guante ",
+        "incorrecta1": "Sombrero",
+        "incorrecta2": "Mirada",
+        "incorrecta3": "Dinero\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué país tienes que estar para ver el clásico Peñarol-Nacional?",
+        "respuesta": "Uruguay",
+        "incorrecta1": "Palestina",
+        "incorrecta2": "México",
+        "incorrecta3": "Argentina\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó el Torneo de Maestros en Londres 2013?",
+        "respuesta": "Novak Djokovic",
+        "incorrecta1": "Rafael Nadal ",
+        "incorrecta2": "Andy Murray ",
+        "incorrecta3": "Roger Federer\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de los siguientes futbolistas ha jugado más partidos con la selección española?",
+        "respuesta": "Iker Casillas ",
+        "incorrecta1": "Fernando Hierro ",
+        "incorrecta2": "Raúl González ",
+        "incorrecta3": "Xavi Hernández \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién fue Balón de Oro europeo en 1993?",
+        "respuesta": "Roberto Baggio",
+        "incorrecta1": "Meho Kodro",
+        "incorrecta2": "Gary Lineker",
+        "incorrecta3": "Diego Forlán\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué equipo recaló Raúl González después de abandonar el Real Madrid?",
+        "respuesta": "Schalke 04",
+        "incorrecta1": "La Galaxy ",
+        "incorrecta2": "F.C Barcelona",
+        "incorrecta3": "Manchester City \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es la última prueba de decatlón?",
+        "respuesta": "1500 Metros ",
+        "incorrecta1": "Natación ",
+        "incorrecta2": "Ciclismo ",
+        "incorrecta3": "Maratón\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué club de Italia jugó Diego Maradona?",
+        "respuesta": "Napoli",
+        "incorrecta1": "Juventus ",
+        "incorrecta2": "Fiorentina",
+        "incorrecta3": "Roma\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué colores es la camiseta del Atlético de Madrid?",
+        "respuesta": "Rojo Y Blanco",
+        "incorrecta1": "Blanco Y Verde",
+        "incorrecta2": "Azul Y Amarillo",
+        "incorrecta3": "Rojo Y Negro  \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos anillos ganó Michael Jordan durante su carrera profesional?",
+        "respuesta": "6",
+        "incorrecta1": "2",
+        "incorrecta2": "3 ",
+        "incorrecta3": "5\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llamaba la mascota del mundial Sudáfrica 2010?",
+        "respuesta": "Zakumi",
+        "incorrecta1": "Carrie",
+        "incorrecta2": "Sergeimo",
+        "incorrecta3": "Sneipen  \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién marcó el gol que le dio a España su primer Mundial de fútbol?",
+        "respuesta": "Andrés Inhiesta",
+        "incorrecta1": "Fernando Torres",
+        "incorrecta2": "Raúl González",
+        "incorrecta3": "David Villa\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué piloto de Fórmula 1 tiene el apodo de \"Hombre de hielo\"?",
+        "respuesta": "Kimi Raikkönen",
+        "incorrecta1": "Nigel Mansell",
+        "incorrecta2": "Mika Häkkinen",
+        "incorrecta3": "Sebastián Vettel\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué equipo de liga española tiene el mayor número de ligas ganadas?",
+        "respuesta": "Real Madrid",
+        "incorrecta1": "FC Barcelona",
+        "incorrecta2": "Atlético De Madrid",
+        "incorrecta3": "Valencia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Si juegas en la NFL ¿qué deporte practicas?",
+        "respuesta": "Fútbol Americano",
+        "incorrecta1": "Natación",
+        "incorrecta2": "Hockey",
+        "incorrecta3": "Golf \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el palo utilizado en hockey?",
+        "respuesta": "Stick",
+        "incorrecta1": "Vara",
+        "incorrecta2": "Bate",
+        "incorrecta3": "Stack\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué fichaje del F.C. Barcelona ha sido el más barato y a la vez el más rentable de la historia?",
+        "respuesta": "Lionel Messi ",
+        "incorrecta1": "Luis Enrique ",
+        "incorrecta2": "David Villa",
+        "incorrecta3": "Cristiano Ronaldo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué revista concedía el Balón de Oro?",
+        "respuesta": "France Football",
+        "incorrecta1": "Marca",
+        "incorrecta2": "Guerin Sportivo ",
+        "incorrecta3": "As\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué deporte profesional se relaciona con las siglas MLB?",
+        "respuesta": "Baseball ",
+        "incorrecta1": "Bádminton",
+        "incorrecta2": "Lacrosse",
+        "incorrecta3": "Baloncesto\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué tirada necesitas en el parchís para sacar una ficha de casa?",
+        "respuesta": "5",
+        "incorrecta1": "1",
+        "incorrecta2": "3",
+        "incorrecta3": "6\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué estadio de fútbol español fue el primero en tener asientos para los aficionados?",
+        "respuesta": "Vicente Calderón",
+        "incorrecta1": "Santiago Bernabéu",
+        "incorrecta2": "Anfield",
+        "incorrecta3": "Old Trafford\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el piloto de Fórmula 1 más joven en ganar 4 títulos mundiales?",
+        "respuesta": "Sebastián Vettel",
+        "incorrecta1": "Michael Schumacher",
+        "incorrecta2": "Alain Prost",
+        "incorrecta3": "Niki Lauda\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Dónde serán los Juegos Olímpicos en 2016?",
+        "respuesta": "Río De Janeiro ",
+        "incorrecta1": "Lyon",
+        "incorrecta2": "Sevilla",
+        "incorrecta3": "Londres\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " El FC Barcelona se fundó mediante un anuncio. ¿Dónde se publicó?",
+        "respuesta": "En Una Revista",
+        "incorrecta1": "En La Radio",
+        "incorrecta2": "En La Televisión",
+        "incorrecta3": "En Un Periódico\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " Además del Real Madrid y F.C. Barcelona. ¿Algún otro equipo jugó todas las temporadas de la Liga Española en Primera División?",
+        "respuesta": "Athletic Club",
+        "incorrecta1": "No, Ninguno Más",
+        "incorrecta2": "Atlético De Madrid",
+        "incorrecta3": "Valencia C.F.\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién tiene el récord mundial de atletismo en 100m lisos en 9,58 segundos?",
+        "respuesta": "Usain Bolt",
+        "incorrecta1": "Carl Lewis",
+        "incorrecta2": "Tyson Gay ",
+        "incorrecta3": "No Es El Récord Correcto\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos ' three peat' (tres anillos NBA consecutivos) tiene Michael Jordan?",
+        "respuesta": "Dos ",
+        "incorrecta1": "Ninguno",
+        "incorrecta2": "Tres  ",
+        "incorrecta3": "Uno \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué año se fundó la Real Sociedad de Fútbol?",
+        "respuesta": "1909",
+        "incorrecta1": "1900",
+        "incorrecta2": "1919",
+        "incorrecta3": "1912\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos anillos de la NBA ganó Michael Jordan?",
+        "respuesta": "6 ",
+        "incorrecta1": "5",
+        "incorrecta2": "7",
+        "incorrecta3": "4\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué año se fundó el Real Madrid?",
+        "respuesta": "1902",
+        "incorrecta1": "1892",
+        "incorrecta2": "1900",
+        "incorrecta3": "1978\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Con qué se premiaba a los campeones olímpicos de la antigüedad?",
+        "respuesta": "Corona De Laurel",
+        "incorrecta1": "Corona De Espinas",
+        "incorrecta2": "Medalla De Latón",
+        "incorrecta3": "Medalla De Estaño\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién marcó el gol que le dio al Real Madrid su novena copa ",
+        "respuesta": "Zidane",
+        "incorrecta1": "Raúl ",
+        "incorrecta2": "Ronaldo",
+        "incorrecta3": "Figo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el deporte nacional de Japón?",
+        "respuesta": "Sumo",
+        "incorrecta1": "Judo",
+        "incorrecta2": "Béisbol",
+        "incorrecta3": "Tenis\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué piloto de carreras murió en 2011?",
+        "respuesta": "Marco Simoncelli",
+        "incorrecta1": "Hector Barberà",
+        "incorrecta2": "Pablo Motos",
+        "incorrecta3": "Valentino Rossi\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el estadio del Bayern de Múnich?",
+        "respuesta": "Allianz Arena",
+        "incorrecta1": "Bayern Arena",
+        "incorrecta2": "Allianz Stadium",
+        "incorrecta3": "Olympique Stadium\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué transporta un caddie en golf?",
+        "respuesta": "Los Palos ",
+        "incorrecta1": "Las Pelotas ",
+        "incorrecta2": "El Césped ",
+        "incorrecta3": "Los Martinis \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte al aire libre gana el jugador que al final tiene los puntos más bajos?",
+        "respuesta": "Golf",
+        "incorrecta1": "Pesca Con Caña ",
+        "incorrecta2": "Tiro Con Arco",
+        "incorrecta3": "Vela\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién le metió el dedo en el ojo a Tito Vilanova en la Supercopa de España de fútbol 2011?",
+        "respuesta": "José Mourinho",
+        "incorrecta1": "Pep Guardiola",
+        "incorrecta2": "Alex Ferguson",
+        "incorrecta3": "Manuel Pellegrini\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores tiene un equipo de futbol en el campo de juego?",
+        "respuesta": "11",
+        "incorrecta1": "6",
+        "incorrecta2": "9",
+        "incorrecta3": "13\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué marca de raqueta usa Roger Federer?",
+        "respuesta": "Wilson",
+        "incorrecta1": "Artengo ",
+        "incorrecta2": "Babolat",
+        "incorrecta3": "Head\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué compositor griego se debe la partitura original del himno de los Juegos Olímpicos?",
+        "respuesta": "Spirou Samara",
+        "incorrecta1": "Mitropoulos",
+        "incorrecta2": "Christou",
+        "incorrecta3": "Kostis Palamas\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Dónde se llevó a cabo el mundial de fútbol de 1962?",
+        "respuesta": "Chile ",
+        "incorrecta1": "Brasil ",
+        "incorrecta2": "México ",
+        "incorrecta3": "Japón Y Corea Del Sur\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué equipo de rugby hace una conocida danza antes de cada partido?",
+        "respuesta": "All Blacks ",
+        "incorrecta1": "Pumas ",
+        "incorrecta2": "Selección De Australia",
+        "incorrecta3": "Springboks\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el único balón de Oro nacido en España?",
+        "respuesta": "Luis Suárez ",
+        "incorrecta1": "Gento ",
+        "incorrecta2": "Raúl Gonzalez Blanco",
+        "incorrecta3": "Xavi Hernández \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Dónde nació el lateral Roberto Carlos?",
+        "respuesta": "Brasil",
+        "incorrecta1": "México ",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Uruguay\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué ciudad del Mediterráneo tuvieron lugar las ediciones de la America's Cup 2011 y 2012?",
+        "respuesta": "Valencia",
+        "incorrecta1": "Nápoles ",
+        "incorrecta2": "Barcelona",
+        "incorrecta3": "Marsella\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "En golf, ¿cuántos metros mide una yarda?",
+        "respuesta": "0,914 Metros",
+        "incorrecta1": "0,5 Metros",
+        "incorrecta2": "1 Metro",
+        "incorrecta3": "1,5 Metros\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué selección ganó la Copa Mundial de Fútbol Francia 98?",
+        "respuesta": "Francia ",
+        "incorrecta1": "Brasil ",
+        "incorrecta2": "Italia",
+        "incorrecta3": "Alemania\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte puedes hacer una \"tacada\"?",
+        "respuesta": "Billar",
+        "incorrecta1": "Ajedrez",
+        "incorrecta2": "Bolos",
+        "incorrecta3": "Dardos\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué edad debutó Iker Casillas en el Real Madrid?",
+        "respuesta": "17",
+        "incorrecta1": "18",
+        "incorrecta2": "20",
+        "incorrecta3": "21\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de los siguientes corredores de la Fórmula 1 falleció en 1994?",
+        "respuesta": "Ayrton Senna ",
+        "incorrecta1": "Niki Lauda",
+        "incorrecta2": "Rubens Barichello",
+        "incorrecta3": "Alain Prost\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué jugador apodan con \"el chicharito\"?",
+        "respuesta": "Javier Hernández ",
+        "incorrecta1": "Javier Aquino",
+        "incorrecta2": "Lionel Messi",
+        "incorrecta3": "Oribe Peralta\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estas no es una prueba de decatlón?",
+        "respuesta": "Maratón",
+        "incorrecta1": "Carrera De 1500m ",
+        "incorrecta2": "Salto Con Pértiga ",
+        "incorrecta3": "Lanzamiento De Jabalina"
+    }
+]
